@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/what-is-it-gh-pages/static/css/main.ac5a1c83.chunk.css",
-    "main.js": "/what-is-it-gh-pages/static/js/main.e9a2d0f3.chunk.js",
-    "main.js.map": "/what-is-it-gh-pages/static/js/main.e9a2d0f3.chunk.js.map",
+    "main.css": "/what-is-it-gh-pages/static/css/main.8ab43a49.chunk.css",
+    "main.js": "/what-is-it-gh-pages/static/js/main.8bfda48a.chunk.js",
+    "main.js.map": "/what-is-it-gh-pages/static/js/main.8bfda48a.chunk.js.map",
     "runtime-main.js": "/what-is-it-gh-pages/static/js/runtime-main.1229a3d0.js",
     "runtime-main.js.map": "/what-is-it-gh-pages/static/js/runtime-main.1229a3d0.js.map",
-    "static/css/2.31e16846.chunk.css": "/what-is-it-gh-pages/static/css/2.31e16846.chunk.css",
-    "static/js/2.460e114f.chunk.js": "/what-is-it-gh-pages/static/js/2.460e114f.chunk.js",
-    "static/js/2.460e114f.chunk.js.map": "/what-is-it-gh-pages/static/js/2.460e114f.chunk.js.map",
+    "static/css/2.f1d55410.chunk.css": "/what-is-it-gh-pages/static/css/2.f1d55410.chunk.css",
+    "static/js/2.74d2ebb8.chunk.js": "/what-is-it-gh-pages/static/js/2.74d2ebb8.chunk.js",
+    "static/js/2.74d2ebb8.chunk.js.map": "/what-is-it-gh-pages/static/js/2.74d2ebb8.chunk.js.map",
     "index.html": "/what-is-it-gh-pages/index.html",
-    "static/css/2.31e16846.chunk.css.map": "/what-is-it-gh-pages/static/css/2.31e16846.chunk.css.map",
-    "static/css/main.ac5a1c83.chunk.css.map": "/what-is-it-gh-pages/static/css/main.ac5a1c83.chunk.css.map",
-    "static/js/2.460e114f.chunk.js.LICENSE.txt": "/what-is-it-gh-pages/static/js/2.460e114f.chunk.js.LICENSE.txt",
+    "static/css/2.f1d55410.chunk.css.map": "/what-is-it-gh-pages/static/css/2.f1d55410.chunk.css.map",
+    "static/css/main.8ab43a49.chunk.css.map": "/what-is-it-gh-pages/static/css/main.8ab43a49.chunk.css.map",
+    "static/js/2.74d2ebb8.chunk.js.LICENSE.txt": "/what-is-it-gh-pages/static/js/2.74d2ebb8.chunk.js.LICENSE.txt",
     "static/media/global-styles.scss": "/what-is-it-gh-pages/static/media/ProximaNova-Semibold.be42827a.ttf",
     "static/media/IT.00b6cf2f.svg": "/what-is-it-gh-pages/static/media/IT.00b6cf2f.svg",
     "static/media/admin.6f4719eb.svg": "/what-is-it-gh-pages/static/media/admin.6f4719eb.svg",
@@ -28,9 +28,9 @@
   },
   "entrypoints": [
     "static/js/runtime-main.1229a3d0.js",
-    "static/css/2.31e16846.chunk.css",
-    "static/js/2.460e114f.chunk.js",
-    "static/css/main.ac5a1c83.chunk.css",
-    "static/js/main.e9a2d0f3.chunk.js"
+    "static/css/2.f1d55410.chunk.css",
+    "static/js/2.74d2ebb8.chunk.js",
+    "static/css/main.8ab43a49.chunk.css",
+    "static/js/main.8bfda48a.chunk.js"
   ]
 }
