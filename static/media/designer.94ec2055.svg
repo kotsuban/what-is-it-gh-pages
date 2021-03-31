@@ -1,0 +1,3353 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="svg-group" viewBox="0 0 700 600" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" width="700" height="600">
+<defs>
+      <linearGradient id="svg-group-rect1-fill" x1="3.854000" y1="0" x2="3.854000" y2="142.281000" spreadMethod="pad" gradientUnits="userSpaceOnUse">
+         <stop id="svg-group-rect1-fill-0" offset="0%" stop-color="rgb(21,11,21)"/>
+         <stop id="svg-group-rect1-fill-1" offset="100%" stop-color="rgb(151,110,154)"/>
+      </linearGradient>
+      <linearGradient id="svg-group-rect2-fill" x1="3.854000" y1="0" x2="3.854000" y2="142.281000" spreadMethod="pad" gradientUnits="userSpaceOnUse">
+         <stop id="svg-group-rect2-fill-0" offset="0%" stop-color="rgb(21,11,21)"/>
+         <stop id="svg-group-rect2-fill-1" offset="100%" stop-color="rgb(151,110,154)"/>
+      </linearGradient>
+      <linearGradient id="svg-group-rect3-fill" x1="3.854000" y1="0" x2="3.854000" y2="104.661000" spreadMethod="pad" gradientUnits="userSpaceOnUse">
+         <stop id="svg-group-rect3-fill-0" offset="0%" stop-color="rgb(21,11,21)"/>
+         <stop id="svg-group-rect3-fill-1" offset="100%" stop-color="rgb(151,110,154)"/>
+      </linearGradient>
+      <linearGradient id="svg-group-rect4-fill" x1="3" y1="0" x2="3" y2="95" spreadMethod="pad" gradientUnits="userSpaceOnUse">
+         <stop id="svg-group-rect4-fill-0" offset="0%" stop-color="rgb(82,53,84)"/>
+         <stop id="svg-group-rect4-fill-1" offset="100%" stop-color="rgb(151,110,154)"/>
+      </linearGradient>
+      <linearGradient id="svg-group-rect5-fill" x1="3" y1="0" x2="3" y2="97.310000" spreadMethod="pad" gradientUnits="userSpaceOnUse">
+         <stop id="svg-group-rect5-fill-0" offset="0%" stop-color="rgb(82,53,84)"/>
+         <stop id="svg-group-rect5-fill-1" offset="100%" stop-color="rgb(151,110,154)"/>
+      </linearGradient>
+      <linearGradient id="svg-group-rect6-fill" x1="3" y1="0" x2="3" y2="73.299000" spreadMethod="pad" gradientUnits="userSpaceOnUse">
+         <stop id="svg-group-rect6-fill-0" offset="0%" stop-color="rgb(82,53,84)"/>
+         <stop id="svg-group-rect6-fill-1" offset="100%" stop-color="rgb(151,110,154)"/>
+      </linearGradient>
+      <linearGradient id="svg-group-path168-fill" x1="681" y1="1343" x2="74.500000" y2="1724.500000" spreadMethod="pad" gradientUnits="userSpaceOnUse">
+         <stop id="svg-group-path168-fill-0" offset="0%" stop-color="rgb(242,36,9)"/>
+         <stop id="svg-group-path168-fill-1" offset="100%" stop-color="rgb(238,138,126)"/>
+      </linearGradient>
+      <linearGradient id="svg-group-statistic-color-fill" x1="685" y1="1647" x2="73" y2="1705.500000" spreadMethod="pad" gradientUnits="userSpaceOnUse">
+         <stop id="svg-group-statistic-color-fill-0" offset="0%" stop-color="rgb(227,239,156)"/>
+         <stop id="svg-group-statistic-color-fill-1" offset="100%" stop-color="rgb(255,140,5)"/>
+      </linearGradient>
+      <linearGradient id="svg-group-path192-fill" x1="1416" y1="797" x2="809.500000" y2="1178.500000" spreadMethod="pad" gradientUnits="userSpaceOnUse">
+         <stop id="svg-group-path192-fill-0" offset="0%" stop-color="rgb(18,3,44)"/>
+         <stop id="svg-group-path192-fill-1" offset="100%" stop-color="rgb(55,118,145)"/>
+      </linearGradient>
+      <linearGradient id="svg-group-rect34-fill" x1="19.500000" y1="0.500000" x2="0" y2="20" spreadMethod="pad" gradientUnits="userSpaceOnUse">
+         <stop id="svg-group-rect34-fill-0" offset="0%" stop-color="rgb(217,96,96)"/>
+         <stop id="svg-group-rect34-fill-1" offset="100%" stop-color="rgb(231,198,81)"/>
+      </linearGradient>
+      <linearGradient id="svg-group-phone-screen-fill" x1="0.040377" y1="0.066919" x2="1.023409" y2="1.054958" spreadMethod="pad" gradientUnits="objectBoundingBox">
+         <stop id="svg-group-phone-screen-fill-0" offset="0%" stop-color="rgb(136,247,243)"/>
+         <stop id="svg-group-phone-screen-fill-1" offset="100%" stop-color="rgb(209,135,45)"/>
+      </linearGradient>
+   </defs>
+   <g xmlns="http://www.w3.org/2000/svg" id="svg-group-designer" transform="translate(-31, -713)">
+   <rect id="svg-group-rect27" width="677" height="501" rx="35" ry="35" transform="matrix(1 0 0 1 40 715)" fill="rgb(209,211,219)" stroke="none" stroke-width="1"/>
+   <path id="svg-group-123" d="M57,814C57,796.327000,71.326900,782,89,782L669,782C686.673000,782,701,796.327000,701,814L701,1167C701,1184.670000,686.673000,1199,669,1199L89,1199C71.326900,1199,57,1184.670000,57,1167L57,814Z" fill="rgb(83,83,83)" fill-opacity="0.71" stroke="none" stroke-width="1"/>
+   <circle id="svg-group-circle11" r="12.500000" transform="matrix(1 0 0 1 69.50000000000000 746.50000000000000)" fill="rgb(255,100,105)" stroke="none" stroke-width="1"/>
+   <circle id="svg-group-circle12" r="12.500000" transform="matrix(1 0 0 1 106.50000000000000 746.50000000000000)" fill="rgb(255,225,105)" stroke="none" stroke-width="1"/>
+   <circle id="svg-group-circle13" r="12.500000" transform="matrix(1 0 0 1 143.50000000000000 746.50000000000000)" fill="rgb(135,225,170)" stroke="none" stroke-width="1"/>
+   <rect id="svg-group-rect28" width="43" height="25" rx="12.500000" ry="12.500000" transform="matrix(1 0 0 1 182 734)" fill="rgb(255,255,255)" stroke="none" stroke-width="1"/>
+   <rect id="svg-group-rect29" width="43" height="25" rx="12.500000" ry="12.500000" transform="matrix(1 0 0 1 237 734)" fill="rgb(255,255,255)" stroke="none" stroke-width="1"/>
+   <rect id="svg-group-rect30" width="43" height="25" rx="12.500000" ry="12.500000" transform="matrix(1 0 0 1 658 734)" fill="rgb(255,255,255)" stroke="none" stroke-width="1"/>
+   <rect id="svg-group-rect31" width="43" height="25" rx="12.500000" ry="12.500000" transform="matrix(1 0 0 1 603 735)" fill="rgb(255,255,255)" stroke="none" stroke-width="1"/>
+   <rect id="svg-group-rect32" width="266" height="25" rx="12.500000" ry="12.500000" transform="matrix(1 0 0 1 308 734)" fill="rgb(255,255,255)" stroke="none" stroke-width="1"/>
+   <path id="svg-group-path241" d="M87.767800,1022.650000L82.364800,1017.250000C83.411400,1015.950000,84.041500,1014.310000,84.041500,1012.520000C84.041500,1008.370000,80.667400,1005,76.520700,1005C72.374000,1005,69,1008.370000,69,1012.520000C69,1016.670000,72.374100,1020.040000,76.520800,1020.040000C78.309900,1020.040000,79.952600,1019.410000,81.245400,1018.360000L86.648500,1023.770000C86.802800,1023.920000,87.005500,1024,87.208200,1024C87.410900,1024,87.613500,1023.920000,87.767900,1023.770000C88.077400,1023.460000,88.077400,1022.960000,87.767800,1022.650000ZM76.520800,1018.460000C73.246500,1018.460000,70.583300,1015.800000,70.583300,1012.520000C70.583300,1009.250000,73.246500,1006.580000,76.520800,1006.580000C79.795100,1006.580000,82.458200,1009.250000,82.458200,1012.520000C82.458200,1015.800000,79.795000,1018.460000,76.520800,1018.460000Z" fill="rgb(255,255,255)" stroke="none" stroke-width="1"/>
+   <path id="svg-group-path242" d="M85.112900,828.783000L72.446400,816.117000C72.334000,816.003000,72.163800,815.968000,72.015700,816.030000C71.867700,816.091000,71.771100,816.236000,71.771100,816.396000L71.771100,834.604000C71.771100,834.767000,71.870900,834.913000,72.022100,834.972000C72.068800,834.991000,72.117900,835,72.167000,835C72.274600,835,72.380700,834.956000,72.456700,834.873000L77.485300,829.458000L84.833500,829.458000C84.993400,829.458000,85.138300,829.363000,85.198500,829.215000C85.260200,829.067000,85.226200,828.896000,85.112900,828.783000ZM77.312700,828.667000C77.202700,828.667000,77.097400,828.713000,77.023000,828.793000L72.562800,833.596000L72.562800,817.352000L83.878000,828.667000L77.312700,828.667000Z" fill="rgb(255,255,255)" stroke="none" stroke-width="1"/>
+   <path id="svg-group-path243" d="M85.342800,866.782000L72.676100,854.116000C72.562900,854.002000,72.393500,853.969000,72.244600,854.030000C72.096600,854.091000,72,854.236000,72,854.396000L72,872.604000C72,872.770000,72.102900,872.918000,72.258900,872.975000C72.303200,872.992000,72.349900,873,72.395800,873C72.509100,873,72.619900,872.951000,72.695900,872.861000L77.327900,867.458000L85.062500,867.458000C85.222400,867.458000,85.367300,867.362000,85.428300,867.214000C85.490000,867.066000,85.456000,866.896000,85.342800,866.782000Z" fill="rgb(255,255,255)" stroke="none" stroke-width="1"/>
+   <rect id="svg-group-rect33" width="1" height="417" rx="0" ry="0" transform="matrix(1 0 0 1 94 782)" fill="rgb(209,211,219)" stroke="none" stroke-width="1"/>
+   <rect id="svg-group-rect34" width="20" height="20" rx="0" ry="0" transform="matrix(1 0 0 1 68 892)" fill="url(#svg-group-rect34-fill)" stroke="none" stroke-width="1"/>
+   <path id="svg-group-path244" d="M67.500000,1109.500000L86.500000,1109.500000L86.500000,1128.500000L67.500000,1128.500000L67.500000,1109.500000Z" fill="rgb(108,108,108)" stroke="rgb(255,255,255)" stroke-width="1"/>
+   <line id="svg-group-line3" x1="86.726000" y1="1071.690000" x2="68.726000" y2="1090.690000" fill="none" stroke="rgb(255,255,255)" stroke-width="2"/>
+   <path id="svg-group-path245" d="M85.465300,969.447000L85.648400,973.329000L85.184600,973.329000C85.095100,972.646000,84.973000,972.157000,84.818400,971.864000C84.566100,971.392000,84.228400,971.046000,83.805200,970.827000C83.390100,970.599000,82.840800,970.485000,82.157200,970.485000L79.825700,970.485000L79.825700,983.131000C79.825700,984.149000,79.935500,984.783000,80.155300,985.036000C80.464500,985.377000,80.940600,985.548000,81.583500,985.548000L82.157200,985.548000L82.157200,986L75.138200,986L75.138200,985.548000L75.724100,985.548000C76.424000,985.548000,76.920400,985.337000,77.213400,984.914000C77.392400,984.653000,77.481900,984.059000,77.481900,983.131000L77.481900,970.485000L75.492200,970.485000C74.719100,970.485000,74.169800,970.542000,73.844200,970.656000C73.421100,970.810000,73.058900,971.107000,72.757800,971.547000C72.456700,971.986000,72.277700,972.580000,72.220700,973.329000L71.756800,973.329000L71.952100,969.447000L85.465300,969.447000Z" fill="rgb(255,255,255)" stroke="none" stroke-width="1"/>
+   <path id="svg-group-path246" d="M84.767200,1148.720000C83.809600,1147.760000,82.258800,1147.760000,81.301200,1148.720000L80.433500,1149.590000L71.197700,1158.820000L71.178100,1158.840000C71.173400,1158.840000,71.173400,1158.850000,71.168300,1158.850000C71.158500,1158.860000,71.143800,1158.880000,71.134100,1158.890000C71.134100,1158.900000,71.129000,1158.900000,71.129000,1158.900000C71.119200,1158.920000,71.114500,1158.930000,71.104500,1158.940000C71.099800,1158.950000,71.099800,1158.950000,71.094800,1158.960000C71.089900,1158.970000,71.085000,1158.980000,71.080000,1159C71.080000,1159,71.075200,1159,71.075200,1159.010000L69.026100,1165.170000C68.966000,1165.340000,69.011700,1165.540000,69.143700,1165.670000C69.236500,1165.760000,69.361600,1165.810000,69.491800,1165.810000C69.545000,1165.810000,69.597700,1165.800000,69.648700,1165.790000L75.805900,1163.730000C75.810700,1163.730000,75.810700,1163.730000,75.815700,1163.730000C75.831200,1163.720000,75.846100,1163.720000,75.859700,1163.710000C75.863600,1163.710000,75.866900,1163.710000,75.869700,1163.700000C75.884300,1163.690000,75.903900,1163.680000,75.918600,1163.670000C75.933200,1163.660000,75.948000,1163.650000,75.962800,1163.640000C75.967700,1163.630000,75.972400,1163.630000,75.972400,1163.630000C75.977500,1163.620000,75.987300,1163.620000,75.992200,1163.610000L86.095600,1153.510000C87.051600,1152.550000,87.051600,1151,86.095600,1150.040000L84.767200,1148.720000ZM75.649000,1162.580000L72.237100,1159.170000L80.776700,1150.630000L84.188600,1154.040000L75.649000,1162.580000ZM71.756500,1160.080000L74.737200,1163.060000L70.261400,1164.550000L71.756500,1160.080000ZM85.404500,1152.820000L84.884800,1153.340000L81.472700,1149.930000L81.997500,1149.410000C82.571500,1148.830000,83.501800,1148.830000,84.075900,1149.410000L85.409300,1150.740000C85.978900,1151.320000,85.976800,1152.250000,85.404500,1152.820000Z" fill="rgb(255,255,255)" stroke="none" stroke-width="1"/>
+   <path id="svg-group-path247" d="M86.786600,1039.330000L85.577200,1038.120000C85.468300,1038.010000,85.291700,1038.010000,85.182800,1038.120000C85.073900,1038.230000,85.073900,1038.400000,85.182800,1038.510000L86.392100,1039.720000C86.459400,1039.790000,86.459700,1039.900000,86.392900,1039.960000L84.813600,1041.560000L79.446200,1036.200000L81.035100,1034.610000C81.102800,1034.540000,81.212900,1034.540000,81.280600,1034.610000L84.267100,1037.590000C84.376000,1037.700000,84.552600,1037.700000,84.661600,1037.590000C84.770500,1037.490000,84.770500,1037.310000,84.661600,1037.200000L81.675000,1034.210000C81.389800,1033.930000,80.925900,1033.930000,80.640700,1034.210000L79.015700,1035.840000C78.745100,1035.720000,78.417900,1035.770000,78.196800,1035.990000L71.252500,1042.940000C71.113000,1043.080000,71.036200,1043.260000,71.036200,1043.460000C71.036200,1043.560000,71.058100,1043.660000,71.098800,1043.760000L68.214200,1046.640000C68.074800,1046.780000,67.998800,1046.970000,68,1047.160000C68.001300,1047.360000,68.079800,1047.540000,68.221100,1047.680000L72.361300,1051.710000C72.498600,1051.850000,72.679900,1051.920000,72.871700,1051.920000L84.699000,1051.920000C85.338800,1051.920000,85.859300,1051.400000,85.859300,1050.760000C85.859300,1050.120000,85.338800,1049.600000,84.699000,1049.600000L83.823900,1049.600000C83.603400,1049.600000,83.423900,1049.420000,83.423900,1049.200000C83.423900,1048.670000,82.994200,1048.240000,82.466100,1048.240000L79.564200,1048.240000L81.705900,1046.100000C81.814800,1045.990000,81.814800,1045.820000,81.705900,1045.710000C81.597000,1045.600000,81.420400,1045.600000,81.311500,1045.710000L77.667500,1049.350000C77.633400,1049.390000,77.588100,1049.400000,77.539800,1049.400000C77.491500,1049.400000,77.446200,1049.390000,77.412100,1049.350000L71.646900,1043.590000C71.612800,1043.550000,71.594000,1043.510000,71.594000,1043.460000C71.594000,1043.410000,71.612800,1043.360000,71.646900,1043.330000L78.591200,1036.390000C78.625300,1036.350000,78.670700,1036.330000,78.719000,1036.330000C78.767200,1036.330000,78.812600,1036.350000,78.846700,1036.390000L84.611800,1042.150000C84.645900,1042.190000,84.664800,1042.230000,84.664800,1042.280000C84.664800,1042.330000,84.645900,1042.370000,84.611800,1042.410000L82.236500,1044.780000C82.127600,1044.890000,82.127600,1045.070000,82.236500,1045.180000C82.345400,1045.290000,82.522000,1045.290000,82.630900,1045.180000L85.006200,1042.800000C85.222600,1042.590000,85.276300,1042.270000,85.167500,1042L86.789900,1040.360000C87.071300,1040.070000,87.069900,1039.610000,86.786600,1039.330000ZM77.539800,1049.960000C77.728800,1049.960000,77.917900,1049.890000,78.061900,1049.750000L79.006400,1048.800000L82.466000,1048.800000C82.686600,1048.800000,82.866100,1048.980000,82.866100,1049.200000C82.866100,1049.730000,83.295800,1050.160000,83.823900,1050.160000L84.699000,1050.160000C85.031200,1050.160000,85.301500,1050.430000,85.301500,1050.760000C85.301500,1051.090000,85.031200,1051.360000,84.699000,1051.360000L75.923700,1051.360000L77.336400,1049.930000C77.402800,1049.950000,77.471300,1049.960000,77.539800,1049.960000ZM76.876700,1049.600000L75.201700,1051.300000C75.199500,1051.300000,75.197400,1051.310000,75.195300,1051.310000C75.162500,1051.340000,75.116000,1051.360000,75.067700,1051.360000L72.871600,1051.360000C72.826100,1051.360000,72.783000,1051.350000,72.750400,1051.320000L68.610300,1047.280000C68.576700,1047.250000,68.558100,1047.210000,68.557800,1047.160000C68.557500,1047.110000,68.575600,1047.070000,68.608700,1047.030000L71.457600,1044.190000L76.876700,1049.600000Z" fill="rgb(255,255,255)" stroke="none" stroke-width="1"/>
+   <path id="svg-group-path248" d="M85.065100,931.605000C84.271900,930.804000,82.979700,930.798000,82.178800,931.591000C82.174100,931.596000,82.169700,931.600000,82.165000,931.605000L79.812400,933.957000L79.417300,933.569000C79.276000,933.429000,79.047500,933.429000,78.906100,933.569000L77.786100,934.690000C77.645400,934.831000,77.645400,935.059000,77.786100,935.201000L78.177600,935.592000L73.689800,940.091000C72.986500,940.794000,72.087500,943.883000,71.986000,944.231000C71.929700,944.423000,72.040100,944.624000,72.232200,944.680000C72.269800,944.691000,72.309300,944.696000,72.348500,944.694000C72.382200,944.699000,72.416300,944.699000,72.450000,944.694000C72.812400,944.593000,75.890100,943.694000,76.589800,942.991000L81.081100,938.478000L81.472600,938.869000C81.614100,939.010000,81.842500,939.010000,81.983800,938.869000L83.104000,937.749000C83.244600,937.608000,83.244600,937.379000,83.104000,937.238000L82.712500,936.846000L85.065100,934.494000C85.861900,933.695000,85.861900,932.403000,85.065100,931.605000ZM76.067900,942.480000C75.705300,942.842000,74.117600,943.418000,72.881400,943.806000C73.269300,942.567000,73.845800,940.982000,74.208200,940.620000L78.692300,936.103000L80.566500,937.974000L76.067900,942.480000Z" fill="rgb(255,255,255)" stroke="none" stroke-width="1"/>
+   <path id="svg-group-path249" d="M71,948.678000C71,949.417000,71.598900,950.016000,72.337700,950.016000C73.076400,950.016000,73.675300,949.417000,73.675300,948.678000C73.675300,948.646000,73.407100,945.561000,72.337700,945.561000C71.268200,945.561000,71,948.646000,71,948.678000Z" fill="rgb(255,255,255)" stroke="none" stroke-width="1"/>
+   <g id="svg-group-phone">
+      <path id="svg-group-phone-screen" d="M451.500000,879.240000L450,1077.390000L301.984000,1076.060000L301.984000,887.650000L451.500000,879.240000Z" fill="url(#svg-group-phone-screen-fill)" stroke="none" stroke-width="1"/>
+      <path id="svg-group-path250" d="M437.727000,1076.060000L421.438000,1124.930000L437.727000,1124.930000C446.686000,1124.930000,454.016000,1117.600000,454.016000,1108.640000L454.016000,1076.060000L437.727000,1076.060000Z" fill="rgb(191,191,191)" stroke="none" stroke-width="1"/>
+      <path id="svg-group-path251" d="M437.727000,855.072000L421.438000,855.072000L437.727000,887.650000L454.016000,887.650000L454.016000,871.361000C454.016000,862.402000,446.686000,855.072000,437.727000,855.072000Z" fill="rgb(191,191,191)" stroke="none" stroke-width="1"/>
+      <path id="svg-group-path252" d="M437.727000,1076.060000L437.727000,1108.640000C437.727000,1117.600000,430.396000,1124.930000,421.438000,1124.930000L318.273000,1124.930000C309.314000,1124.930000,301.984000,1117.600000,301.984000,1108.640000L301.984000,1076.060000L437.727000,1076.060000Z" fill="rgb(219,219,219)" stroke="none" stroke-width="1"/>
+      <path id="svg-group-path253" d="M437.727000,871.361000L437.727000,887.650000L301.984000,887.650000L301.984000,871.361000C301.984000,862.402000,309.314000,855.072000,318.273000,855.072000L421.438000,855.072000C430.396000,855.072000,437.727000,862.402000,437.727000,871.361000Z" fill="rgb(219,219,219)" stroke="none" stroke-width="1"/>
+      <path id="svg-group-path254" d="M378,1108.640000C382.498000,1108.640000,386.145000,1104.990000,386.145000,1100.490000C386.145000,1096,382.498000,1092.350000,378,1092.350000C373.502000,1092.350000,369.855000,1096,369.855000,1100.490000C369.855000,1104.990000,373.502000,1108.640000,378,1108.640000Z" fill="rgb(255,255,255)" stroke="none" stroke-width="1"/>
+      <path id="svg-group-phone-path" d="M437.727000,851L318.273000,851C307.046000,851,297.912000,860.134000,297.912000,871.361000L297.912000,1108.640000C297.912000,1119.870000,307.046000,1129,318.273000,1129L437.727000,1129C448.954000,1129,458.088000,1119.870000,458.088000,1108.640000L458.088000,871.361000C458.088000,860.134000,448.954000,851,437.727000,851ZM318.273000,859.145000L437.727000,859.145000C444.463000,859.145000,449.943000,864.625000,449.943000,871.361000L449.943000,883.578000L306.057000,883.578000L306.057000,871.361000C306.057000,864.625000,311.537000,859.145000,318.273000,859.145000ZM437.727000,1120.860000L318.273000,1120.860000C311.537000,1120.860000,306.057000,1115.380000,306.057000,1108.640000L306.057000,1080.130000L318.273000,1080.130000C320.522000,1080.130000,322.346000,1078.310000,322.346000,1076.060000C322.346000,1073.810000,320.522000,1071.990000,318.273000,1071.990000L306.057000,1071.990000L306.057000,891.723000L449.943000,891.723000L449.943000,1071.990000L334.562000,1071.990000C332.314000,1071.990000,330.490000,1073.810000,330.490000,1076.060000C330.490000,1078.310000,332.314000,1080.130000,334.562000,1080.130000L449.943000,1080.130000L449.943000,1108.640000C449.943000,1115.380000,444.463000,1120.860000,437.727000,1120.860000Z" fill="rgb(0,0,0)" stroke="none" stroke-width="1" stroke-dashoffset="2167.590000" stroke-dasharray="2167,59"/>
+      <path id="svg-group-phone-top-line" d="M378,875.434000L394.289000,875.434000C396.538000,875.434000,398.361000,873.610000,398.361000,871.361000C398.361000,869.112000,396.538000,867.289000,394.289000,867.289000L378,867.289000C375.751000,867.289000,373.928000,869.112000,373.928000,871.361000C373.928000,873.610000,375.751000,875.434000,378,875.434000Z" opacity="1" fill="rgb(0,0,0)" stroke="none" stroke-width="1" stroke-dashoffset="58.170000" stroke-dasharray="58,17"/>
+      <path id="svg-group-phone-bottom-button" d="M378,1088.280000C371.263000,1088.280000,365.783000,1093.760000,365.783000,1100.490000C365.783000,1107.230000,371.263000,1112.710000,378,1112.710000C384.737000,1112.710000,390.217000,1107.230000,390.217000,1100.490000C390.217000,1093.760000,384.737000,1088.280000,378,1088.280000ZM378,1104.570000C375.754000,1104.570000,373.928000,1102.740000,373.928000,1100.490000C373.928000,1098.250000,375.754000,1096.420000,378,1096.420000C380.246000,1096.420000,382.072000,1098.250000,382.072000,1100.490000C382.072000,1102.740000,380.246000,1104.570000,378,1104.570000Z" opacity="0.862500" fill="rgb(0,0,0)" stroke="none" stroke-width="1"/>
+      <path id="svg-group-phone-top-point" d="M361.711000,875.434000C363.960000,875.434000,365.783000,873.610000,365.783000,871.361000C365.783000,869.112000,363.960000,867.289000,361.711000,867.289000C359.462000,867.289000,357.639000,869.112000,357.639000,871.361000C357.639000,873.610000,359.462000,875.434000,361.711000,875.434000Z" opacity="1" fill="rgb(0,0,0)" stroke="none" stroke-width="1"/>
+   </g>
+</g>
+<script xmlns = "http://www.w3.org/2000/svg" >
+<![CDATA[! function(t, n) {
+    "object" == typeof exports && "undefined" != typeof module ? module.exports = n() : "function" == typeof define && define.amd ? define(n) : (t = "undefined" != typeof globalThis ? globalThis : t || self).__SVGATOR_PLAYER__ = n()
+}(this, (function() {
+    "use strict";
+
+    function t(n) {
+        return (t = "function" == typeof Symbol && "symbol]]><![CDATA[" == typeof Symbol.iterator ? function(t) {
+            return typeof t
+        } : function(t) {
+            return t && "function" == typeof Symbol && t.constructor === Symbol && t !== Symbol.prototype ? "symbol" : typeof t
+        })(n)
+    }
+
+    function n(t, n) {
+        if (!(t instanceof n)) throw new TypeError("Cannot call a class as a function")
+    }
+
+    function r(t, n) {
+        for (var r = 0; r < n.length; r++) {
+            var e = n[r];
+            e.enumerable = e.enumerable || !1, e.configurable = !0, "value" in e && (e.writable = !0), Object.defineProperty(t, e.key, e)
+        }
+    }
+
+    function e(t, n, e) {
+        return n && r(t.prototype, n), e && r(t, e), t
+    }
+
+    function i(t) {
+        return (i = Object.setPrototypeOf ? Object.getPrototypeOf : function(t) {
+            return t.__proto__ || Object.getPrototypeOf(t)
+        })(t)
+    }
+
+    function u(t, n) {
+        return (u = Object.setPrototypeOf || function(t, n) {
+            return t.__proto__ = n, t
+        })(t, n)
+    }
+
+    function o(t, n) {
+        return !n || "object" != typeof n && "function" != typeof n ? function(t) {
+            if (void 0 === t) throw new ReferenceError("this hasn't been initialised - super() hasn't been called");
+            return t
+        }(t) : n
+    }
+
+    function a(t) {
+        var n = function() {
+            if ("undefined" == typeof Reflect || !Reflect.construct) return !1;
+            if (Reflect.construct.sham) return !1;
+            if ("function" == typeof Proxy) return !0;
+            try {
+                return Boolean.prototype.valueOf.call(Reflect.construct(Boolean, [], (function() {}))), !0
+            } catch (t) {
+                return !1
+            }
+        }();
+        return function() {
+            var r, e = i(t);
+            if (n) {
+                var u = i(this).constructor;
+                r = Reflect.construct(e, arguments, u)
+            } else r = e.apply(this, arguments);
+            return o(this, r)
+        }
+    }
+
+    function l(t, n, r) {
+        return (l = "undefined" != typeof Reflect && Reflect.get ? Reflect.get : function(t, n, r) {
+            var e = function(t, n) {
+                for (; !Object.prototype.hasOwnProperty.call(t, n) && null !== (t = i(t)););
+                return t
+            }(t, n);
+            if (e) {
+                var u = Object.getOwnPropertyDescriptor(e, n);
+                return u.get ? u.get.call(r) : u.value
+            }
+        })(t, n, r || t)
+    }
+    var f = Math.abs;
+
+    function s(t) {
+        return t
+    }
+
+    function c(t, n, r) {
+        var e = 1 - r;
+        return 3 * r * e * (t * e + n * r) + r * r * r
+    }
+
+    function h() {
+        var t = arguments.length > 0 && void 0 !== arguments[0] ? arguments[0] : 0,
+            n = arguments.length > 1 && void 0 !== arguments[1] ? arguments[1] : 0,
+            r = arguments.length > 2 && void 0 !== arguments[2] ? arguments[2] : 1,
+            e = arguments.length > 3 && void 0 !== arguments[3] ? arguments[3] : 1;
+        return t < 0 || t > 1 || r < 0 || r > 1 ? null : f(t - n) <= 1e-5 && f(r - e) <= 1e-5 ? s : function(i) {
+            if (i <= 0) return t > 0 ? i * n / t : 0 === n && r > 0 ? i * e / r : 0;
+            if (i >= 1) return r < 1 ? 1 + (i - 1) * (e - 1) / (r - 1) : 1 === r && t < 1 ? 1 + (i - 1) * (n - 1) / (t - 1) : 1;
+            for (var u, o = 0, a = 1; o < a;) {
+                var l = c(t, r, u = (o + a) / 2);
+                if (f(i - l) < 1e-5) break;
+                l < i ? o = u : a = u
+            }
+            return c(n, e, u)
+        }
+    }
+
+    function v() {
+        return 1
+    }
+
+    function y(t) {
+        return 1 === t ? 1 : 0
+    }
+
+    function d() {
+        var t = arguments.length > 0 && void 0 !== arguments[0] ? arguments[0] : 1,
+            n = arguments.length > 1 && void 0 !== arguments[1] ? arguments[1] : 0;
+        if (1 === t) {
+            if (0 === n) return y;
+            if (1 === n) return v
+        }
+        var r = 1 / t;
+        return function(t) {
+            return t >= 1 ? 1 : (t += n * r) - t % r
+        }
+    }
+
+    function g(t) {
+        var n = arguments.length > 1 && void 0 !== arguments[1] ? arguments[1] : 2;
+        if (Number.isInteger(t)) return t;
+        var r = Math.pow(10, n);
+        return Math.round(t * r) / r
+    }
+    var p = Math.PI / 180;
+
+    function m(t, n, r) {
+        return t >= .5 ? r : n
+    }
+
+    function b(t, n, r) {
+        return 0 === t || n === r ? n : t * (r - n) + n
+    }
+
+    function w(t, n, r) {
+        var e = b(t, n, r);
+        return e <= 0 ? 0 : e
+    }
+
+    function x(t, n, r) {
+        return 0 === t ? n : 1 === t ? r : {
+            x: b(t, n.x, r.x),
+            y: b(t, n.y, r.y)
+        }
+    }
+
+    function A(t, n, r) {
+        return 0 === t ? n : 1 === t ? r : {
+            x: w(t, n.x, r.x),
+            y: w(t, n.y, r.y)
+        }
+    }
+
+    function k(t, n, r) {
+        var e = function(t, n, r) {
+            return Math.round(b(t, n, r))
+        }(t, n, r);
+        return e <= 0 ? 0 : e >= 255 ? 255 : e
+    }
+
+    function _(t, n, r) {
+        return 0 === t ? n : 1 === t ? r : {
+            r: k(t, n.r, r.r),
+            g: k(t, n.g, r.g),
+            b: k(t, n.b, r.b),
+            a: b(t, null == n.a ? 1 : n.a, null == r.a ? 1 : r.a)
+        }
+    }
+
+    function S(t, n, r) {
+        if (0 === t) return n;
+        if (1 === t) return r;
+        var e = n.length;
+        if (e !== r.length) return m(t, n, r);
+        for (var i = [], u = 0; u < e; u++) i.push(_(t, n[u], r[u]));
+        return i
+    }
+
+    function O(t, n, r) {
+        var e = n.length;
+        if (e !== r.length) return m(t, n, r);
+        for (var i = new Array(e), u = 0; u < e; u++) i[u] = b(t, n[u], r[u]);
+        return i
+    }
+
+    function M(t, n) {
+        for (var r = [], e = 0; e < t; e++) r.push(n);
+        return r
+    }
+
+    function B(t, n) {
+        if (--n <= 0) return t;
+        var r = (t = Object.assign([], t)).length;
+        do {
+            for (var e = 0; e < r; e++) t.push(t[e])
+        } while (--n > 0);
+        return t
+    }
+    var I, j = function() {
+            function t(r) {
+                n(this, t), this.list = r, this.length = r.length
+            }
+            return e(t, [{
+                key: "setAttribute",
+                value: function(t, n) {
+                    for (var r = this.list, e = 0; e < this.length; e++) r[e].setAttribute(t, n)
+                }
+            }, {
+                key: "removeAttribute",
+                value: function(t) {
+                    for (var n = this.list, r = 0; r < this.length; r++) n[r].removeAttribute(t)
+                }
+            }, {
+                key: "style",
+                value: function(t, n) {
+                    for (var r = this.list, e = 0; e < this.length; e++) r[e].style[t] = n
+                }
+            }]), t
+        }(),
+        E = /-./g,
+        F = function(t, n) {
+            return n.toUpperCase()
+        };
+
+    function P(t) {
+        return "function" == typeof t ? t : m
+    }
+
+    function R(t) {
+        return t ? "function" == typeof t ? t : Array.isArray(t) ? function(t) {
+            var n = arguments.length > 1 && void 0 !== arguments[1] ? arguments[1] : s;
+            if (!Array.isArray(t)) return n;
+            switch (t.length) {
+                case 1:
+                    return d(t[0]) || n;
+                case 2:
+                    return d(t[0], t[1]) || n;
+                case 4:
+                    return h(t[0], t[1], t[2], t[3]) || n
+            }
+            return n
+        }(t, null) : function(t, n) {
+            var r = arguments.length > 2 && void 0 !== arguments[2] ? arguments[2] : s;
+            switch (t) {
+                case "linear":
+                    return s;
+                case "steps":
+                    return d(n.steps || 1, n.jump || 0) || r;
+                case "bezier":
+                case "cubic-bezier":
+                    return h(n.x1 || 0, n.y1 || 0, n.x2 || 0, n.y2 || 0) || r
+            }
+            return r
+        }(t.type, t.value, null) : null
+    }
+
+    function q(t, n, r) {
+        var e = arguments.length > 3 && void 0 !== arguments[3] && arguments[3],
+            i = n.length - 1;
+        if (t <= n[0].t) return e ? [0, 0, n[0].v] : n[0].v;
+        if (t >= n[i].t) return e ? [i, 1, n[i].v] : n[i].v;
+        var u, o = n[0],
+            a = null;
+        for (u = 1; u <= i; u++) {
+            if (!(t > n[u].t)) {
+                a = n[u];
+                break
+            }
+            o = n[u]
+        }
+        return null == a ? e ? [i, 1, n[i].v] : n[i].v : o.t === a.t ? e ? [u, 1, a.v] : a.v : (t = (t - o.t) / (a.t - o.t), o.e && (t = o.e(t)), e ? [u, t, r(t, o.v, a.v)] : r(t, o.v, a.v))
+    }
+
+    function T(t, n) {
+        var r = arguments.length > 2 && void 0 !== arguments[2] ? arguments[2] : null;
+        return t && t.length ? "function" != typeof n ? null : ("function" != typeof r && (r = null), function(e) {
+            var i = q(e, t, n);
+            return null != i && r && (i = r(i)), i
+        }) : null
+    }
+
+    function N(t, n) {
+        return t.t - n.t
+    }
+
+    function C(n, r, e, i, u) {
+        var o, a = "@" === e[0],
+            l = "#" === e[0],
+            f = I[e],
+            s = m;
+        switch (a ? (o = e.substr(1), e = o.replace(E, F)) : l && (e = e.substr(1)), t(f)) {
+            case "function":
+                if (s = f(i, u, q, R, e, a, r, n), l) return s;
+                break;
+            case "string":
+                s = T(i, P(f));
+                break;
+            case "object":
+                if ((s = T(i, P(f.i), f.f)) && "function" == typeof f.u) return f.u(r, s, e, a, n)
+        }
+        return s ? function(t, n, r) {
+            var e = arguments.length > 3 && void 0 !== arguments[3] && arguments[3];
+            if (e) return t instanceof j ? function(e) {
+                return t.style(n, r(e))
+            } : function(e) {
+                return t.style[n] = r(e)
+            };
+            if (Array.isArray(n)) {
+                var i = n.length;
+                return function(e) {
+                    var u = r(e);
+                    if (null == u)
+                        for (var o = 0; o < i; o++) t[o].removeAttribute(n);
+                    else
+                        for (var a = 0; a < i; a++) t[a].setAttribute(n, u)
+                }
+            }
+            return function(e) {
+                var i = r(e);
+                null == i ? t.removeAttribute(n) : t.setAttribute(n, i)
+            }
+        }(r, e, s, a) : null
+    }
+
+    function z(n, r, e, i) {
+        if (!i || "object" !== t(i)) return null;
+        var u = null,
+            o = null;
+        return Array.isArray(i) ? o = function(t) {
+            if (!t || !t.length) return null;
+            for (var n = 0; n < t.length; n++) t[n].e && (t[n].e = R(t[n].e));
+            return t.sort(N)
+        }(i) : (o = i.keys, u = i.data || null), o ? C(n, r, e, o, u) : null
+    }
+
+    function L(t, n, r) {
+        if (!r) return null;
+        var e = [];
+        for (var i in r)
+            if (r.hasOwnProperty(i)) {
+                var u = z(t, n, i, r[i]);
+                u && e.push(u)
+            } return e.length ? e : null
+    }
+
+    function D(t, n) {
+        if (!n.duration || n.duration < 0) return null;
+        var r = function(t, n) {
+            if (!n) return null;
+            var r = [];
+            if (Array.isArray(n))
+                for (var e = n.length, i = 0; i < e; i++) {
+                    var u = n[i];
+                    if (2 === u.length) {
+                        var o = null;
+                        if ("string" == typeof u[0]) o = t.getElementById(u[0]);
+                        else if (Array.isArray(u[0])) {
+                            o = [];
+                            for (var a = 0; a < u[0].length; a++)
+                                if ("string" == typeof u[0][a]) {
+                                    var l = t.getElementById(u[0][a]);
+                                    l && o.push(l)
+                                } o = o.length ? 1 === o.length ? o[0] : new j(o) : null
+                        }
+                        if (o) {
+                            var f = L(t, o, u[1]);
+                            f && (r = r.concat(f))
+                        }
+                    }
+                } else
+                    for (var s in n)
+                        if (n.hasOwnProperty(s)) {
+                            var c = t.getElementById(s);
+                            if (c) {
+                                var h = L(t, c, n[s]);
+                                h && (r = r.concat(h))
+                            }
+                        } return r.length ? r : null
+        }(t, n.elements);
+        return r ? function(t, n) {
+            var r = arguments.length > 2 && void 0 !== arguments[2] ? arguments[2] : 1 / 0,
+                e = arguments.length > 3 && void 0 !== arguments[3] ? arguments[3] : 1,
+                i = arguments.length > 4 && void 0 !== arguments[4] && arguments[4],
+                u = arguments.length > 5 && void 0 !== arguments[5] ? arguments[5] : 1,
+                o = t.length,
+                a = e > 0 ? n : 0;
+            i && r % 2 == 0 && (a = n - a);
+            var l = null;
+            return function(f, s) {
+                var c = f % n,
+                    h = 1 + (f - c) / n;
+                s *= e, i && h % 2 == 0 && (s = -s);
+                var v = !1;
+                if (h > r) c = a, v = !0, -1 === u && (c = e > 0 ? 0 : n);
+                else if (s < 0 && (c = n - c), c === l) return !1;
+                l = c;
+                for (var y = 0; y < o; y++) t[y](c);
+                return v
+            }
+        }(r, n.duration, n.iterations || 1 / 0, n.direction || 1, !!n.alternate, n.fill || 1) : null
+    }
+    var V = function() {
+        function t(r, e) {
+            var i = arguments.length > 2 && void 0 !== arguments[2] ? arguments[2] : {};
+            n(this, t), this._id = 0, this._running = !1, this._rollingBack = !1, this._animations = r, this.duration = e.duration, this.alternate = e.alternate, this.fill = e.fill, this.iterations = e.iterations, this.direction = i.direction || 1, this.speed = i.speed || 1, this.fps = i.fps || 100, this.offset = i.offset || 0, this.rollbackStartOffset = 0
+        }
+        return e(t, [{
+            key: "_rollback",
+            value: function() {
+                var t = this,
+                    n = 1 / 0,
+                    r = null;
+                this.rollbackStartOffset = this.offset, this._rollingBack || (this._rollingBack = !0, this._running = !0);
+                this._id = window.requestAnimationFrame((function e(i) {
+                    if (t._rollingBack) {
+                        null == r && (r = i);
+                        var u = i - r,
+                            o = t.rollbackStartOffset - u,
+                            a = Math.round(o * t.speed);
+                        if (a > t.duration && n != 1 / 0) {
+                            var l = !!t.alternate && a / t.duration % 2 > 1,
+                                f = a % t.duration;
+                            a = (f += l ? t.duration : 0) || t.duration
+                        }
+                        var s = t.fps ? 1e3 / t.fps : 0,
+                            c = Math.max(0, a);
+                        if (c < n - s) {
+                            t.offset = c, n = c;
+                            for (var h = t._animations, v = h.length, y = 0; y < v; y++) h[y](c, t.direction)
+                        }
+                        var d = !1;
+                        if (t.iterations > 0 && -1 === t.fill) {
+                            var g = t.iterations * t.duration,
+                                p = g == a;
+                            a = p ? 0 : a, t.offset = p ? 0 : t.offset, d = a > g
+                        }
+                        a > 0 && t.offset >= a && !d ? t._id = window.requestAnimationFrame(e) : t.stop()
+                    }
+                }))
+            }
+        }, {
+            key: "_start",
+            value: function() {
+                var t = this,
+                    n = arguments.length > 0 && void 0 !== arguments[0] ? arguments[0] : 0,
+                    r = -1 / 0,
+                    e = null,
+                    i = {},
+                    u = function u(o) {
+                        t._running = !0, null == e && (e = o);
+                        var a = Math.round((o - e + n) * t.speed),
+                            l = t.fps ? 1e3 / t.fps : 0;
+                        if (a > r + l && !t._rollingBack) {
+                            t.offset = a, r = a;
+                            for (var f = t._animations, s = f.length, c = 0, h = 0; h < s; h++) i[h] ? c++ : (i[h] = f[h](a, t.direction), i[h] && c++);
+                            if (c === s) return void t._stop()
+                        }
+                        t._id = window.requestAnimationFrame(u)
+                    };
+                this._id = window.requestAnimationFrame(u)
+            }
+        }, {
+            key: "_stop",
+            value: function() {
+                this._id && window.cancelAnimationFrame(this._id), this._running = !1, this._rollingBack = !1
+            }
+        }, {
+            key: "play",
+            value: function() {
+                !this._rollingBack && this._running || (this._rollingBack = !1, this.rollbackStartOffset > this.duration && (this.offset = this.rollbackStartOffset - (this.rollbackStartOffset - this.offset) % this.duration, this.rollbackStartOffset = 0), this._start(this.offset))
+            }
+        }, {
+            key: "stop",
+            value: function() {
+                this._stop(), this.offset = 0, this.rollbackStartOffset = 0;
+                var t = this.direction,
+                    n = this._animations;
+                window.requestAnimationFrame((function() {
+                    for (var r = 0; r < n.length; r++) n[r](0, t)
+                }))
+            }
+        }, {
+            key: "reachedToEnd",
+            value: function() {
+                return this.iterations > 0 && this.offset >= this.iterations * this.duration
+            }
+        }, {
+            key: "restart",
+            value: function() {
+                this._stop(), this.offset = 0, this._start()
+            }
+        }, {
+            key: "pause",
+            value: function() {
+                this._stop()
+            }
+        }, {
+            key: "reverse",
+            value: function() {
+                this.direction = -this.direction
+            }
+        }], [{
+            key: "build",
+            value: function(n, r) {
+                return (n = function(t, n) {
+                    if (I = n, !t || !t.root || !Array.isArray(t.animations)) return null;
+                    for (var r = document.getElementsByTagName("svg"), e = !1, i = 0; i < r.length; i++)
+                        if (r[i].id === t.root && !r[i].svgatorAnimation) {
+                            (e = r[i]).svgatorAnimation = !0;
+                            break
+                        } if (!e) return null;
+                    var u = t.animations.map((function(t) {
+                        return D(e, t)
+                    })).filter((function(t) {
+                        return !!t
+                    }));
+                    return u.length ? {
+                        element: e,
+                        animations: u,
+                        animationSettings: t.animationSettings,
+                        options: t.options || void 0
+                    } : null
+                }(n, r)) ? {
+                    el: n.element,
+                    options: n.options || {},
+                    player: new t(n.animations, n.animationSettings, n.options)
+                } : null
+            }
+        }]), t
+    }();
+    ! function() {
+        for (var t = 0, n = ["ms", "moz", "webkit", "o"], r = 0; r < n.length && !window.requestAnimationFrame; ++r) window.requestAnimationFrame = window[n[r] + "RequestAnimationFrame"], window.cancelAnimationFrame = window[n[r] + "CancelAnimationFrame"] || window[n[r] + "CancelRequestAnimationFrame"];
+        window.requestAnimationFrame || (window.requestAnimationFrame = function(n) {
+            var r = Date.now(),
+                e = Math.max(0, 16 - (r - t)),
+                i = window.setTimeout((function() {
+                    n(r + e)
+                }), e);
+            return t = r + e, i
+        }, window.cancelAnimationFrame = window.clearTimeout)
+    }();
+    var G = /\.0+$/g;
+
+    function Q(t) {
+        return Number.isInteger(t) ? t + "" : t.toFixed(6).replace(G, "")
+    }
+
+    function U(t) {
+        var n = arguments.length > 1 && void 0 !== arguments[1] ? arguments[1] : " ";
+        return t && t.length ? t.map(Q).join(n) : ""
+    }
+
+    function $(t) {
+        return Q(t.x) + "," + Q(t.y)
+    }
+
+    function H(t) {
+        return t ? null == t.a || t.a >= 1 ? "rgb(" + t.r + "," + t.g + "," + t.b + ")" : "rgba(" + t.r + "," + t.g + "," + t.b + "," + t.a + ")" : "transparent"
+    }
+    var Y = {
+            f: null,
+            i: A,
+            u: function(t, n) {
+                return function(r) {
+                    var e = n(r);
+                    t.setAttribute("rx", Q(e.x)), t.setAttribute("ry", Q(e.y))
+                }
+            }
+        },
+        Z = {
+            f: null,
+            i: function(t, n, r) {
+                return 0 === t ? n : 1 === t ? r : {
+                    width: w(t, n.width, r.width),
+                    height: w(t, n.height, r.height)
+                }
+            },
+            u: function(t, n) {
+                return function(r) {
+                    var e = n(r);
+                    t.setAttribute("width", Q(e.width)), t.setAttribute("height", Q(e.height))
+                }
+            }
+        },
+        J = Math.sin,
+        K = Math.cos,
+        W = Math.acos,
+        X = Math.asin,
+        tt = Math.tan,
+        nt = Math.atan2,
+        rt = Math.PI / 180,
+        et = 180 / Math.PI,
+        it = Math.sqrt,
+        ut = function() {
+            function t() {
+                var r = arguments.length > 0 && void 0 !== arguments[0] ? arguments[0] : 1,
+                    e = arguments.length > 1 && void 0 !== arguments[1] ? arguments[1] : 0,
+                    i = arguments.length > 2 && void 0 !== arguments[2] ? arguments[2] : 0,
+                    u = arguments.length > 3 && void 0 !== arguments[3] ? arguments[3] : 1,
+                    o = arguments.length > 4 && void 0 !== arguments[4] ? arguments[4] : 0,
+                    a = arguments.length > 5 && void 0 !== arguments[5] ? arguments[5] : 0;
+                n(this, t), this.m = [r, e, i, u, o, a], this.i = null, this.w = null, this.s = null
+            }
+            return e(t, [{
+                key: "determinant",
+                get: function() {
+                    var t = this.m;
+                    return t[0] * t[3] - t[1] * t[2]
+                }
+            }, {
+                key: "isIdentity",
+                get: function() {
+                    if (null === this.i) {
+                        var t = this.m;
+                        this.i = 1 === t[0] && 0 === t[1] && 0 === t[2] && 1 === t[3] && 0 === t[4] && 0 === t[5]
+                    }
+                    return this.i
+                }
+            }, {
+                key: "point",
+                value: function(t, n) {
+                    var r = this.m;
+                    return {
+                        x: r[0] * t + r[2] * n + r[4],
+                        y: r[1] * t + r[3] * n + r[5]
+                    }
+                }
+            }, {
+                key: "translateSelf",
+                value: function() {
+                    var t = arguments.length > 0 && void 0 !== arguments[0] ? arguments[0] : 0,
+                        n = arguments.length > 1 && void 0 !== arguments[1] ? arguments[1] : 0;
+                    if (!t && !n) return this;
+                    var r = this.m;
+                    return r[4] += r[0] * t + r[2] * n, r[5] += r[1] * t + r[3] * n, this.w = this.s = this.i = null, this
+                }
+            }, {
+                key: "rotateSelf",
+                value: function() {
+                    var t = arguments.length > 0 && void 0 !== arguments[0] ? arguments[0] : 0;
+                    if (t %= 360) {
+                        var n = J(t *= rt),
+                            r = K(t),
+                            e = this.m,
+                            i = e[0],
+                            u = e[1];
+                        e[0] = i * r + e[2] * n, e[1] = u * r + e[3] * n, e[2] = e[2] * r - i * n, e[3] = e[3] * r - u * n, this.w = this.s = this.i = null
+                    }
+                    return this
+                }
+            }, {
+                key: "scaleSelf",
+                value: function() {
+                    var t = arguments.length > 0 && void 0 !== arguments[0] ? arguments[0] : 1,
+                        n = arguments.length > 1 && void 0 !== arguments[1] ? arguments[1] : 1;
+                    if (1 !== t || 1 !== n) {
+                        var r = this.m;
+                        r[0] *= t, r[1] *= t, r[2] *= n, r[3] *= n, this.w = this.s = this.i = null
+                    }
+                    return this
+                }
+            }, {
+                key: "skewSelf",
+                value: function(t, n) {
+                    if (n %= 360, (t %= 360) || n) {
+                        var r = this.m,
+                            e = r[0],
+                            i = r[1],
+                            u = r[2],
+                            o = r[3];
+                        t && (t = tt(t * rt), r[2] += e * t, r[3] += i * t), n && (n = tt(n * rt), r[0] += u * n, r[1] += o * n), this.w = this.s = this.i = null
+                    }
+                    return this
+                }
+            }, {
+                key: "resetSelf",
+                value: function() {
+                    var t = arguments.length > 0 && void 0 !== arguments[0] ? arguments[0] : 1,
+                        n = arguments.length > 1 && void 0 !== arguments[1] ? arguments[1] : 0,
+                        r = arguments.length > 2 && void 0 !== arguments[2] ? arguments[2] : 0,
+                        e = arguments.length > 3 && void 0 !== arguments[3] ? arguments[3] : 1,
+                        i = arguments.length > 4 && void 0 !== arguments[4] ? arguments[4] : 0,
+                        u = arguments.length > 5 && void 0 !== arguments[5] ? arguments[5] : 0,
+                        o = this.m;
+                    return o[0] = t, o[1] = n, o[2] = r, o[3] = e, o[4] = i, o[5] = u, this.w = this.s = this.i = null, this
+                }
+            }, {
+                key: "recomposeSelf",
+                value: function() {
+                    var t = arguments.length > 0 && void 0 !== arguments[0] ? arguments[0] : null,
+                        n = arguments.length > 1 && void 0 !== arguments[1] ? arguments[1] : null,
+                        r = arguments.length > 2 && void 0 !== arguments[2] ? arguments[2] : null,
+                        e = arguments.length > 3 && void 0 !== arguments[3] ? arguments[3] : null,
+                        i = arguments.length > 4 && void 0 !== arguments[4] ? arguments[4] : null;
+                    return this.isIdentity || this.resetSelf(), t && (t.x || t.y) && this.translateSelf(t.x, t.y), n && this.rotateSelf(n), r && (r.x && this.skewSelf(r.x, 0), r.y && this.skewSelf(0, r.y)), !e || 1 === e.x && 1 === e.y || this.scaleSelf(e.x, e.y), i && (i.x || i.y) && this.translateSelf(i.x, i.y), this
+                }
+            }, {
+                key: "decompose",
+                value: function() {
+                    var t = arguments.length > 0 && void 0 !== arguments[0] ? arguments[0] : 0,
+                        n = arguments.length > 1 && void 0 !== arguments[1] ? arguments[1] : 0,
+                        r = this.m,
+                        e = r[0] * r[0] + r[1] * r[1],
+                        i = [
+                            [r[0], r[1]],
+                            [r[2], r[3]]
+                        ],
+                        u = it(e);
+                    if (0 === u) return {
+                        origin: {
+                            x: r[4],
+                            y: r[5]
+                        },
+                        translate: {
+                            x: t,
+                            y: n
+                        },
+                        scale: {
+                            x: 0,
+                            y: 0
+                        },
+                        skew: {
+                            x: 0,
+                            y: 0
+                        },
+                        rotate: 0
+                    };
+                    i[0][0] /= u, i[0][1] /= u;
+                    var o = r[0] * r[3] - r[1] * r[2] < 0;
+                    o && (u = -u);
+                    var a = i[0][0] * i[1][0] + i[0][1] * i[1][1];
+                    i[1][0] -= i[0][0] * a, i[1][1] -= i[0][1] * a;
+                    var l = it(i[1][0] * i[1][0] + i[1][1] * i[1][1]);
+                    if (0 === l) return {
+                        origin: {
+                            x: r[4],
+                            y: r[5]
+                        },
+                        translate: {
+                            x: t,
+                            y: n
+                        },
+                        scale: {
+                            x: u,
+                            y: 0
+                        },
+                        skew: {
+                            x: 0,
+                            y: 0
+                        },
+                        rotate: 0
+                    };
+                    i[1][0] /= l, i[1][1] /= l, a /= l;
+                    var f = 0;
+                    return i[1][1] < 0 ? (f = W(i[1][1]) * et, i[0][1] < 0 && (f = 360 - f)) : f = X(i[0][1]) * et, o && (f = -f), a = nt(a, it(i[0][0] * i[0][0] + i[0][1] * i[0][1])) * et, o && (a = -a), {
+                        origin: {
+                            x: r[4],
+                            y: r[5]
+                        },
+                        translate: {
+                            x: t,
+                            y: n
+                        },
+                        scale: {
+                            x: u,
+                            y: l
+                        },
+                        skew: {
+                            x: a,
+                            y: 0
+                        },
+                        rotate: f
+                    }
+                }
+            }, {
+                key: "toString",
+                value: function() {
+                    return null === this.s && (this.s = "matrix(" + this.m.map(at).join(" ") + ")"), this.s
+                }
+            }]), t
+        }(),
+        ot = /\.0+$/;
+
+    function at(t) {
+        return Number.isInteger(t) ? t : t.toFixed(14).replace(ot, "")
+    }
+
+    function lt(t, n, r) {
+        return t + (n - t) * r
+    }
+
+    function ft(t, n, r) {
+        var e = arguments.length > 3 && void 0 !== arguments[3] && arguments[3],
+            i = {
+                x: lt(t.x, n.x, r),
+                y: lt(t.y, n.y, r)
+            };
+        return e && (i.a = st(t, n)), i
+    }
+
+    function st(t, n) {
+        return Math.atan2(n.y - t.y, n.x - t.x)
+    }
+    Object.freeze({
+        M: 2,
+        L: 2,
+        Z: 0,
+        H: 1,
+        V: 1,
+        C: 6,
+        Q: 4,
+        T: 2,
+        S: 4,
+        A: 7
+    });
+    var ct = {},
+        ht = null;
+
+    function vt(n) {
+        var r = function() {
+            if (ht) return ht;
+            if ("object" !== ("undefined" == typeof document ? "undefined" : t(document))) return {};
+            var n = document.createElementNS("http://www.w3.org/2000/svg", "svg");
+            return n.style.position = "absolute", n.style.opacity = "0.01", n.style.zIndex = "-9999", n.style.left = "-9999px", n.style.width = "1px", n.style.height = "1px", ht = {
+                svg: n
+            }
+        }().svg;
+        if (!r) return function(t) {
+            return null
+        };
+        var e = document.createElementNS(r.namespaceURI, "path");
+        e.setAttributeNS(null, "d", n), e.setAttributeNS(null, "fill", "none"), e.setAttributeNS(null, "stroke", "none"), r.appendChild(e);
+        var i = e.getTotalLength();
+        return function(t) {
+            var n = e.getPointAtLength(i * t);
+            return {
+                x: n.x,
+                y: n.y
+            }
+        }
+    }
+
+    function yt(t) {
+        return ct[t] ? ct[t] : ct[t] = vt(t)
+    }
+
+    function dt(t, n, r, e) {
+        if (!t || !e) return !1;
+        var i = ["M", t.x, t.y];
+        if (n && r && (i.push("C"), i.push(n.x), i.push(n.y), i.push(r.x), i.push(r.y)), n ? !r : r) {
+            var u = n || r;
+            i.push("Q"), i.push(u.x), i.push(u.y)
+        }
+        return n || r || i.push("L"), i.push(e.x), i.push(e.y), i.join(" ")
+    }
+
+    function gt(t, n, r, e) {
+        var i = arguments.length > 4 && void 0 !== arguments[4] ? arguments[4] : 1,
+            u = dt(t, n, r, e),
+            o = yt(u);
+        try {
+            return o(i)
+        } catch (t) {
+            return null
+        }
+    }
+
+    function pt(t, n, r, e) {
+        var i = 1 - e;
+        return i * i * t + 2 * i * e * n + e * e * r
+    }
+
+    function mt(t, n, r, e) {
+        return 2 * (1 - e) * (n - t) + 2 * e * (r - n)
+    }
+
+    function bt(t, n, r, e) {
+        var i = arguments.length > 4 && void 0 !== arguments[4] && arguments[4],
+            u = gt(t, n, null, r, e);
+        return u || (u = {
+            x: pt(t.x, n.x, r.x, e),
+            y: pt(t.y, n.y, r.y, e)
+        }), i && (u.a = wt(t, n, r, e)), u
+    }
+
+    function wt(t, n, r, e) {
+        return Math.atan2(mt(t.y, n.y, r.y, e), mt(t.x, n.x, r.x, e))
+    }
+
+    function xt(t, n, r, e, i) {
+        var u = i * i;
+        return i * u * (e - t + 3 * (n - r)) + 3 * u * (t + r - 2 * n) + 3 * i * (n - t) + t
+    }
+
+    function At(t, n, r, e, i) {
+        var u = 1 - i;
+        return 3 * (u * u * (n - t) + 2 * u * i * (r - n) + i * i * (e - r))
+    }
+
+    function kt(t, n, r, e, i) {
+        var u = arguments.length > 5 && void 0 !== arguments[5] && arguments[5],
+            o = gt(t, n, r, e, i);
+        return o || (o = {
+            x: xt(t.x, n.x, r.x, e.x, i),
+            y: xt(t.y, n.y, r.y, e.y, i)
+        }), u && (o.a = _t(t, n, r, e, i)), o
+    }
+
+    function _t(t, n, r, e, i) {
+        return Math.atan2(At(t.y, n.y, r.y, e.y, i), At(t.x, n.x, r.x, e.x, i))
+    }
+
+    function St(t, n, r) {
+        var e = arguments.length > 3 && void 0 !== arguments[3] && arguments[3];
+        if (Mt(n)) {
+            if (Bt(r)) return bt(n, r.start, r, t, e)
+        } else if (Mt(r)) {
+            if (n.end) return bt(n, n.end, r, t, e)
+        } else {
+            if (n.end) return r.start ? kt(n, n.end, r.start, r, t, e) : bt(n, n.end, r, t, e);
+            if (r.start) return bt(n, r.start, r, t, e)
+        }
+        return ft(n, r, t, e)
+    }
+
+    function Ot(t, n, r) {
+        var e = St(t, n, r, !0);
+        return e.a = function(t) {
+            var n = arguments.length > 1 && void 0 !== arguments[1] && arguments[1];
+            return n ? t + Math.PI : t
+        }(e.a) / p, e
+    }
+
+    function Mt(t) {
+        return !t.type || "corner" === t.type
+    }
+
+    function Bt(t) {
+        return null != t.start && !Mt(t)
+    }
+    var It = new ut;
+    var jt = {
+            f: function(t) {
+                return t ? t.join(" ") : ""
+            },
+            i: function(n, r, e) {
+                if (0 === n) return r;
+                if (1 === n) return e;
+                var i = r.length;
+                if (i !== e.length) return m(n, r, e);
+                for (var u, o = new Array(i), a = 0; a < i; a++) {
+                    if ((u = t(r[a])) !== t(e[a])) return m(n, r, e);
+                    if ("number" === u) o[a] = b(n, r[a], e[a]);
+                    else {
+                        if (r[a] !== e[a]) return m(n, r, e);
+                        o[a] = r[a]
+                    }
+                }
+                return o
+            }
+        },
+        Et = {
+            f: null,
+            i: O,
+            u: function(t, n) {
+                return function(r) {
+                    var e = n(r);
+                    t.setAttribute("x1", Q(e[0])), t.setAttribute("y1", Q(e[1])), t.setAttribute("x2", Q(e[2])), t.setAttribute("y2", Q(e[3]))
+                }
+            }
+        },
+        Ft = {
+            f: Q,
+            i: b
+        },
+        Pt = {
+            f: Q,
+            i: function(t, n, r) {
+                var e = b(t, n, r);
+                return e <= 0 ? 0 : e >= 1 ? 1 : e
+            }
+        },
+        Rt = {
+            f: function(t) {
+                var n = arguments.length > 1 && void 0 !== arguments[1] ? arguments[1] : " ";
+                return t && t.length > 0 && (t = t.map((function(t) {
+                    return Math.floor(1e4 * t) / 1e4
+                }))), U(t, n)
+            },
+            i: function(t, n, r) {
+                var e, i, u, o = n.length,
+                    a = r.length;
+                if (o !== a)
+                    if (0 === o) n = M(o = a, 0);
+                    else if (0 === a) a = o, r = M(o, 0);
+                else {
+                    var l = (u = (e = o) * (i = a) / function(t, n) {
+                        for (var r; n;) r = n, n = t % n, t = r;
+                        return t || 1
+                    }(e, i)) < 0 ? -u : u;
+                    n = B(n, Math.floor(l / o)), r = B(r, Math.floor(l / a)), o = a = l
+                }
+                for (var f = [], s = 0; s < o; s++) f.push(g(w(t, n[s], r[s]), 6));
+                return f
+            }
+        };
+
+    function qt(t, n, r, e, i, u, o, a) {
+        return n = function(t, n, r) {
+                for (var e, i, u, o = t.length - 1, a = {}, l = 0; l <= o; l++)(e = t[l]).e && (e.e = n(e.e)), e.v && "g" === (i = e.v).t && i.r && (u = r.getElementById(i.r)) && (a[i.r] = u.querySelectorAll("stop"));
+                return a
+            }(t, e, a),
+            function(e) {
+                var i, u = r(e, t, Tt);
+                return u ? "c" === u.t ? H(u.v) : "g" === u.t ? (n[u.r] && function(t, n) {
+                    for (var r = 0, e = t.length; r < e; r++) t[r].setAttribute("stop-color", H(n[r]))
+                }(n[u.r], u.v), (i = u.r) ? "url(#" + i + ")" : "none") : "none" : "none"
+            }
+    }
+
+    function Tt(t, n, r) {
+        if (0 === t) return n;
+        if (1 === t) return r;
+        if (n && r) {
+            var e = n.t;
+            if (e === r.t) switch (n.t) {
+                case "c":
+                    return {
+                        t: e, v: _(t, n.v, r.v)
+                    };
+                case "g":
+                    if (n.r === r.r) return {
+                        t: e,
+                        v: S(t, n.v, r.v),
+                        r: n.r
+                    }
+            }
+        }
+        return m(t, n, r)
+    }
+    var Nt = {
+        blur: A,
+        brightness: w,
+        contrast: w,
+        "drop-shadow": function(t, n, r) {
+            return 0 === t ? n : 1 === t ? r : {
+                blur: A(t, n.blur, r.blur),
+                offset: x(t, n.offset, r.offset),
+                color: _(t, n.color, r.color)
+            }
+        },
+        grayscale: w,
+        "hue-rotate": b,
+        invert: w,
+        opacity: w,
+        saturate: w,
+        sepia: w
+    };
+
+    function Ct(t, n, r) {
+        if (0 === t) return n;
+        if (1 === t) return r;
+        var e = n.length;
+        if (e !== r.length) return m(t, n, r);
+        for (var i, u = [], o = 0; o < e; o++) {
+            if (n[o].type !== r[o].type) return n;
+            if (!(i = Nt[n[o].type])) return m(t, n, r);
+            u.push({
+                type: n.type,
+                value: i(t, n[o].value, r[o].value)
+            })
+        }
+        return u
+    }
+    var zt = {
+        blur: function(t) {
+            return t ? function(n) {
+                t.setAttribute("stdDeviation", $(n))
+            } : null
+        },
+        brightness: function(t, n, r) {
+            return (t = Dt(r, n)) ? function(n) {
+                n = Q(n), t.map((function(t) {
+                    return t.setAttribute("slope", n)
+                }))
+            } : null
+        },
+        contrast: function(t, n, r) {
+            return (t = Dt(r, n)) ? function(n) {
+                var r = Q((1 - n) / 2);
+                n = Q(n), t.map((function(t) {
+                    t.setAttribute("slope", n), t.setAttribute("intercept", r)
+                }))
+            } : null
+        },
+        "drop-shadow": function(t, n, r) {
+            var e = r.getElementById(n + "-blur");
+            if (!e) return null;
+            var i = r.getElementById(n + "-offset");
+            if (!i) return null;
+            var u = r.getElementById(n + "-flood");
+            return u ? function(t) {
+                e.setAttribute("stdDeviation", $(t.blur)), i.setAttribute("dx", Q(t.offset.x)), i.setAttribute("dy", Q(t.offset.y)), u.setAttribute("flood-color", H(t.color))
+            } : null
+        },
+        grayscale: function(t) {
+            return t ? function(n) {
+                t.setAttribute("values", U(function(t) {
+                    return [.2126 + .7874 * (t = 1 - t), .7152 - .7152 * t, .0722 - .0722 * t, 0, 0, .2126 - .2126 * t, .7152 + .2848 * t, .0722 - .0722 * t, 0, 0, .2126 - .2126 * t, .7152 - .7152 * t, .0722 + .9278 * t, 0, 0, 0, 0, 0, 1, 0]
+                }(n)))
+            } : null
+        },
+        "hue-rotate": function(t) {
+            return t ? function(n) {
+                return t.setAttribute("values", Q(n))
+            } : null
+        },
+        invert: function(t, n, r) {
+            return (t = Dt(r, n)) ? function(n) {
+                n = Q(n) + " " + Q(1 - n), t.map((function(t) {
+                    return t.setAttribute("tableValues", n)
+                }))
+            } : null
+        },
+        opacity: function(t, n, r) {
+            return (t = r.getElementById(n + "-A")) ? function(n) {
+                return t.setAttribute("tableValues", "0 " + Q(n))
+            } : null
+        },
+        saturate: function(t) {
+            return t ? function(n) {
+                return t.setAttribute("values", Q(n))
+            } : null
+        },
+        sepia: function(t) {
+            return t ? function(n) {
+                return t.setAttribute("values", U(function(t) {
+                    return [.393 + .607 * (t = 1 - t), .769 - .769 * t, .189 - .189 * t, 0, 0, .349 - .349 * t, .686 + .314 * t, .168 - .168 * t, 0, 0, .272 - .272 * t, .534 - .534 * t, .131 + .869 * t, 0, 0, 0, 0, 0, 1, 0]
+                }(n)))
+            } : null
+        }
+    };
+    var Lt = ["R", "G", "B"];
+
+    function Dt(t, n) {
+        var r = Lt.map((function(r) {
+            return t.getElementById(n + "-" + r) || null
+        }));
+        return -1 !== r.indexOf(null) ? null : r
+    }
+    var Vt = {
+        fill: qt,
+        "fill-opacity": Pt,
+        stroke: qt,
+        "stroke-opacity": Pt,
+        "stroke-width": Ft,
+        "stroke-dashoffset": {
+            f: Q,
+            i: b
+        },
+        "stroke-dasharray": Rt,
+        opacity: Pt,
+        transform: function(n, r, e, i) {
+            if (!(n = function(n, r) {
+                    if (!n || "object" !== t(n)) return null;
+                    var e = !1;
+                    for (var i in n) n.hasOwnProperty(i) && (n[i] && n[i].length ? (n[i].forEach((function(t) {
+                        t.e && (t.e = r(t.e))
+                    })), e = !0) : delete n[i]);
+                    return e ? n : null
+                }(n, i))) return null;
+            var u = function(t, i, u) {
+                var o = arguments.length > 3 && void 0 !== arguments[3] ? arguments[3] : null;
+                return n[t] ? e(i, n[t], u) : r && r[t] ? r[t] : o
+            };
+            return r && r.a && n.o ? function(t) {
+                var r = e(t, n.o, Ot);
+                return It.recomposeSelf(r, u("r", t, b, 0) + r.a, u("k", t, x), u("s", t, x), u("t", t, x)).toString()
+            } : function(t) {
+                return It.recomposeSelf(u("o", t, St, null), u("r", t, b, 0), u("k", t, x), u("s", t, x), u("t", t, x)).toString()
+            }
+        },
+        "#filter": function(t, n, r, e, i, u, o, a) {
+            if (!n.items || !t || !t.length) return null;
+            var l = function(t, n) {
+                var r = (t = t.map((function(t) {
+                    return t && zt[t[0]] ? (n.getElementById(t[1]), zt[t[0]](n.getElementById(t[1]), t[1], n)) : null
+                }))).length;
+                return function(n) {
+                    for (var e = 0; e < r; e++) t[e] && t[e](n[e].value)
+                }
+            }(n.items, a);
+            return l ? (t = function(t, n) {
+                return t.map((function(t) {
+                    return t.e = n(t.e), t
+                }))
+            }(t, e), function(n) {
+                l(r(n, t, Ct))
+            }) : null
+        },
+        "#line": Et,
+        points: {
+            f: U,
+            i: O
+        },
+        d: jt,
+        r: Ft,
+        "#size": Z,
+        "#radius": Y,
+        _: function(t, n) {
+            if (Array.isArray(t))
+                for (var r = 0; r < t.length; r++) this[t[r]] = n;
+            else this[t] = n
+        }
+    };
+    return function(t) {
+        ! function(t, n) {
+            if ("function" != typeof n && null !== n) throw new TypeError("Super expression must either be null or a function");
+            t.prototype = Object.create(n && n.prototype, {
+                constructor: {
+                    value: t,
+                    writable: !0,
+                    configurable: !0
+                }
+            }), n && u(t, n)
+        }(o, t);
+        var r = a(o);
+
+        function o() {
+            return n(this, o), r.apply(this, arguments)
+        }
+        return e(o, null, [{
+            key: "build",
+            value: function(t) {
+                var n = l(i(o), "build", this).call(this, t, Vt);
+                n.el, n.options;
+                var r = n.player;
+                return function(t, n, r) {
+                    t.play()
+                }(r), r
+            }
+        }]), o
+    }(V)
+})); __SVGATOR_PLAYER__.build({
+    "root": "svg-group",
+    "animations": [{
+        "duration": 15000,
+        "direction": 1,
+        "iterations": 0,
+        "fill": 1,
+        "alternate": false,
+        "elements": {
+            "svg-group-persona": {
+                "transform": {
+                    "data": {
+                        "t": {
+                            "x": -245.13070678710938,
+                            "y": -380.1336669921875
+                        }
+                    },
+                    "keys": {
+                        "o": [{
+                            "t": 0,
+                            "v": {
+                                "x": 244.49355278710937,
+                                "y": 379.8150899921875,
+                                "type": "corner"
+                            }
+                        }, {
+                            "t": 1000,
+                            "v": {
+                                "x": 245.32707478710938,
+                                "y": 380.0234709921875,
+                                "type": "corner"
+                            }
+                        }, {
+                            "t": 2000,
+                            "v": {
+                                "x": 243.8550227871094,
+                                "y": 380.2688129921875,
+                                "type": "corner"
+                            }
+                        }, {
+                            "t": 2400,
+                            "v": {
+                                "x": 244.49355278710937,
+                                "y": 379.8150899921875,
+                                "type": "corner"
+                            }
+                        }, {
+                            "t": 3400,
+                            "v": {
+                                "x": 245.32707478710938,
+                                "y": 380.0234709921875,
+                                "type": "corner"
+                            }
+                        }, {
+                            "t": 4400,
+                            "v": {
+                                "x": 243.8550227871094,
+                                "y": 380.2688129921875,
+                                "type": "corner"
+                            }
+                        }, {
+                            "t": 4800,
+                            "v": {
+                                "x": 244.49355278710937,
+                                "y": 379.8150899921875,
+                                "type": "corner"
+                            }
+                        }, {
+                            "t": 5800,
+                            "v": {
+                                "x": 245.32707478710938,
+                                "y": 380.0234709921875,
+                                "type": "corner"
+                            }
+                        }, {
+                            "t": 6800,
+                            "v": {
+                                "x": 243.8550227871094,
+                                "y": 380.2688129921875,
+                                "type": "corner"
+                            }
+                        }, {
+                            "t": 7200,
+                            "v": {
+                                "x": 244.49355278710937,
+                                "y": 379.8150899921875,
+                                "type": "corner"
+                            }
+                        }, {
+                            "t": 8200,
+                            "v": {
+                                "x": 245.32707478710938,
+                                "y": 380.0234709921875,
+                                "type": "corner"
+                            }
+                        }, {
+                            "t": 9200,
+                            "v": {
+                                "x": 243.8550227871094,
+                                "y": 380.2688129921875,
+                                "type": "corner"
+                            }
+                        }, {
+                            "t": 9600,
+                            "v": {
+                                "x": 244.49355278710937,
+                                "y": 379.8150899921875,
+                                "type": "corner"
+                            }
+                        }, {
+                            "t": 10600,
+                            "v": {
+                                "x": 245.32707478710938,
+                                "y": 380.0234709921875,
+                                "type": "corner"
+                            }
+                        }, {
+                            "t": 11600,
+                            "v": {
+                                "x": 243.8550227871094,
+                                "y": 380.2688129921875,
+                                "type": "corner"
+                            }
+                        }, {
+                            "t": 12800,
+                            "v": {
+                                "x": 244.49355278710937,
+                                "y": 379.8150899921875,
+                                "type": "corner"
+                            }
+                        }, {
+                            "t": 14000,
+                            "v": {
+                                "x": 245.32707478710938,
+                                "y": 380.0234709921875,
+                                "type": "corner"
+                            }
+                        }, {
+                            "t": 15000,
+                            "v": {
+                                "x": 243.8550227871094,
+                                "y": 380.2688129921875,
+                                "type": "corner"
+                            }
+                        }],
+                        "r": [{
+                            "t": 0,
+                            "v": -0.5151671503131837
+                        }, {
+                            "t": 1000,
+                            "v": 0.3177451542003348
+                        }, {
+                            "t": 2000,
+                            "v": -1.049628644591048
+                        }, {
+                            "t": 2400,
+                            "v": -0.5151671503131837
+                        }, {
+                            "t": 3400,
+                            "v": 0.3177451542003348
+                        }, {
+                            "t": 4400,
+                            "v": -1.049628644591048
+                        }, {
+                            "t": 4800,
+                            "v": -0.5151671503131837
+                        }, {
+                            "t": 5800,
+                            "v": 0.3177451542003348
+                        }, {
+                            "t": 6800,
+                            "v": -1.049628644591048
+                        }, {
+                            "t": 7200,
+                            "v": -0.5151671503131837
+                        }, {
+                            "t": 8200,
+                            "v": 0.3177451542003348
+                        }, {
+                            "t": 9200,
+                            "v": -1.049628644591048
+                        }, {
+                            "t": 9600,
+                            "v": -0.5151671503131837
+                        }, {
+                            "t": 10600,
+                            "v": 0.3177451542003348
+                        }, {
+                            "t": 11600,
+                            "v": -1.049628644591048
+                        }, {
+                            "t": 12800,
+                            "v": -0.5151671503131837
+                        }, {
+                            "t": 14000,
+                            "v": 0.3177451542003348
+                        }, {
+                            "t": 15000,
+                            "v": -1.049628644591048
+                        }]
+                    }
+                }
+            },
+            "svg-group-mouse-and-hand": {
+                "transform": {
+                    "data": {
+                        "o": {
+                            "x": 266.644002,
+                            "y": 419.663663,
+                            "type": "corner"
+                        },
+                        "t": {
+                            "x": -266.6513221159905,
+                            "y": -419.64618402321327
+                        }
+                    },
+                    "keys": {
+                        "r": [{
+                            "t": 0,
+                            "v": 1.6081946752036316
+                        }, {
+                            "t": 1000,
+                            "v": -1.8617324547094625
+                        }, {
+                            "t": 2000,
+                            "v": 2.044878250090563
+                        }, {
+                            "t": 3000,
+                            "v": 3.2285067771813867
+                        }, {
+                            "t": 4000,
+                            "v": 1.6081946752036316
+                        }, {
+                            "t": 5000,
+                            "v": -1.8617324547094625
+                        }, {
+                            "t": 6000,
+                            "v": 2.044878250090563
+                        }, {
+                            "t": 7000,
+                            "v": 3.2285067771813867
+                        }, {
+                            "t": 8000,
+                            "v": 1.6081946752036316
+                        }, {
+                            "t": 9000,
+                            "v": -1.8617324547094625
+                        }, {
+                            "t": 10000,
+                            "v": 2.044878250090563
+                        }, {
+                            "t": 11000,
+                            "v": 3.2285067771813867
+                        }, {
+                            "t": 12000,
+                            "v": 1.6081946752036316
+                        }, {
+                            "t": 12800,
+                            "v": -1.8617324547094625
+                        }, {
+                            "t": 13800,
+                            "v": 2.044878250090563
+                        }, {
+                            "t": 15000,
+                            "v": -0.5234405718633817
+                        }]
+                    }
+                }
+            },
+            "svg-group-hand-right": {
+                "d": [{
+                    "t": 0,
+                    "v": ["M", 265.5, 409, "C", 265.5, 409, 274, 414, 279, 412.5, "C", 285.92, 410.424, 296.5, 406.5, 296.5, 406.5, "L", 308.5, 400, "L", 321, 394.5, "C", 321, 394.5, 335, 386.5, 338.5, 396, "C", 342.821, 407.729, 331.5, 407.5, 331.5, 407.5, "C", 321.346, 412.382, 315.654, 415.118, 305.5, 420, "C", 305.5, 420, 295.5, 428.5, 275.5, 430.5, "C", 264.014, 431.649, 255.5, 421.5, 255.5, 421.5, "L", 265.5, 409, "Z"]
+                }, {
+                    "t": 1000,
+                    "v": ["M", 265.5, 409, "C", 265.5, 409, 274, 414, 279, 412.5, "C", 285.92, 410.424, 296.5, 406.5, 296.5, 406.5, "L", 308.5, 400, "L", 321, 394.5, "C", 324.0341267609973, 392.9238567399791, 337.7137561445843, 388.60740298335287, 341.2137561445843, 398.10740298335287, "C", 345.5347561445843, 409.83640298335285, 333.56038030338635, 408.81469557263364, 331.5, 407.5, "C", 321.346, 412.382, 315.654, 415.118, 305.5, 420, "C", 305.5, 420, 295.5, 428.5, 275.5, 430.5, "C", 264.014, 431.649, 255.5, 421.5, 255.5, 421.5, "L", 265.5, 409, "Z"]
+                }, {
+                    "t": 2000,
+                    "v": ["M", 265.5, 409, "C", 265.5, 409, 274, 414, 279, 412.5, "C", 285.92, 410.424, 296.5, 406.5, 296.5, 406.5, "L", 308.5, 400, "L", 321, 394.5, "C", 324.0341267609973, 392.9238567399791, 339.4732697182049, 388.1339027452426, 341.2137561445843, 398.10740298335287, "C", 342.1576464198528, 403.5161724758697, 333.56038030338635, 408.81469557263364, 331.5, 407.5, "C", 321.346, 412.382, 315.654, 415.118, 305.5, 420, "C", 305.5, 420, 295.5, 428.5, 275.5, 430.5, "C", 264.014, 431.649, 255.5, 421.5, 255.5, 421.5, "L", 265.5, 409, "Z"]
+                }, {
+                    "t": 3000,
+                    "v": ["M", 265.5, 409, "C", 265.5, 409, 274, 414, 279, 412.5, "C", 285.92, 410.424, 296.5, 406.5, 296.5, 406.5, "L", 308.5, 400, "L", 321, 394.5, "C", 324.0341267609973, 392.9238567399791, 339.4732697182049, 388.1339027452426, 341.2137561445843, 398.10740298335287, "C", 342.1576464198528, 403.5161724758697, 340.69037108729634, 407.6554566965745, 331.5, 407.5, "C", 321.346, 412.382, 315.654, 415.118, 305.5, 420, "C", 305.5, 420, 295.5, 428.5, 275.5, 430.5, "C", 264.014, 431.649, 255.5, 421.5, 255.5, 421.5, "L", 265.5, 409, "Z"]
+                }, {
+                    "t": 4000,
+                    "v": ["M", 265.5, 409, "C", 265.5, 409, 274, 414, 279, 412.5, "C", 285.92, 410.424, 296.5, 406.5, 296.5, 406.5, "L", 308.5, 400, "L", 321, 394.5, "C", 321, 394.5, 335, 386.5, 338.5, 396, "C", 342.821, 407.729, 331.5, 407.5, 331.5, 407.5, "C", 321.346, 412.382, 315.654, 415.118, 305.5, 420, "C", 305.5, 420, 295.5, 428.5, 275.5, 430.5, "C", 264.014, 431.649, 255.5, 421.5, 255.5, 421.5, "L", 265.5, 409, "Z"]
+                }, {
+                    "t": 5000,
+                    "v": ["M", 265.5, 409, "C", 265.5, 409, 274, 414, 279, 412.5, "C", 285.92, 410.424, 296.5, 406.5, 296.5, 406.5, "L", 308.5, 400, "L", 321, 394.5, "C", 324.0341267609973, 392.9238567399791, 337.7137561445843, 388.60740298335287, 341.2137561445843, 398.10740298335287, "C", 345.5347561445843, 409.83640298335285, 333.56038030338635, 408.81469557263364, 331.5, 407.5, "C", 321.346, 412.382, 315.654, 415.118, 305.5, 420, "C", 305.5, 420, 295.5, 428.5, 275.5, 430.5, "C", 264.014, 431.649, 255.5, 421.5, 255.5, 421.5, "L", 265.5, 409, "Z"]
+                }, {
+                    "t": 6000,
+                    "v": ["M", 265.5, 409, "C", 265.5, 409, 274, 414, 279, 412.5, "C", 285.92, 410.424, 296.5, 406.5, 296.5, 406.5, "L", 308.5, 400, "L", 321, 394.5, "C", 324.0341267609973, 392.9238567399791, 339.4732697182049, 388.1339027452426, 341.2137561445843, 398.10740298335287, "C", 342.1576464198528, 403.5161724758697, 333.56038030338635, 408.81469557263364, 331.5, 407.5, "C", 321.346, 412.382, 315.654, 415.118, 305.5, 420, "C", 305.5, 420, 295.5, 428.5, 275.5, 430.5, "C", 264.014, 431.649, 255.5, 421.5, 255.5, 421.5, "L", 265.5, 409, "Z"]
+                }, {
+                    "t": 7000,
+                    "v": ["M", 265.5, 409, "C", 265.5, 409, 274, 414, 279, 412.5, "C", 285.92, 410.424, 296.5, 406.5, 296.5, 406.5, "L", 308.5, 400, "L", 321, 394.5, "C", 324.0341267609973, 392.9238567399791, 339.4732697182049, 388.1339027452426, 341.2137561445843, 398.10740298335287, "C", 342.1576464198528, 403.5161724758697, 340.69037108729634, 407.6554566965745, 331.5, 407.5, "C", 321.346, 412.382, 315.654, 415.118, 305.5, 420, "C", 305.5, 420, 295.5, 428.5, 275.5, 430.5, "C", 264.014, 431.649, 255.5, 421.5, 255.5, 421.5, "L", 265.5, 409, "Z"]
+                }, {
+                    "t": 8000,
+                    "v": ["M", 265.5, 409, "C", 265.5, 409, 274, 414, 279, 412.5, "C", 285.92, 410.424, 296.5, 406.5, 296.5, 406.5, "L", 308.5, 400, "L", 321, 394.5, "C", 321, 394.5, 335, 386.5, 338.5, 396, "C", 342.821, 407.729, 331.5, 407.5, 331.5, 407.5, "C", 321.346, 412.382, 315.654, 415.118, 305.5, 420, "C", 305.5, 420, 295.5, 428.5, 275.5, 430.5, "C", 264.014, 431.649, 255.5, 421.5, 255.5, 421.5, "L", 265.5, 409, "Z"]
+                }, {
+                    "t": 9000,
+                    "v": ["M", 265.5, 409, "C", 265.5, 409, 274, 414, 279, 412.5, "C", 285.92, 410.424, 296.5, 406.5, 296.5, 406.5, "L", 308.5, 400, "L", 321, 394.5, "C", 324.0341267609973, 392.9238567399791, 337.7137561445843, 388.60740298335287, 341.2137561445843, 398.10740298335287, "C", 345.5347561445843, 409.83640298335285, 333.56038030338635, 408.81469557263364, 331.5, 407.5, "C", 321.346, 412.382, 315.654, 415.118, 305.5, 420, "C", 305.5, 420, 295.5, 428.5, 275.5, 430.5, "C", 264.014, 431.649, 255.5, 421.5, 255.5, 421.5, "L", 265.5, 409, "Z"]
+                }, {
+                    "t": 10000,
+                    "v": ["M", 265.5, 409, "C", 265.5, 409, 274, 414, 279, 412.5, "C", 285.92, 410.424, 296.5, 406.5, 296.5, 406.5, "L", 308.5, 400, "L", 321, 394.5, "C", 324.0341267609973, 392.9238567399791, 339.4732697182049, 388.1339027452426, 341.2137561445843, 398.10740298335287, "C", 342.1576464198528, 403.5161724758697, 333.56038030338635, 408.81469557263364, 331.5, 407.5, "C", 321.346, 412.382, 315.654, 415.118, 305.5, 420, "C", 305.5, 420, 295.5, 428.5, 275.5, 430.5, "C", 264.014, 431.649, 255.5, 421.5, 255.5, 421.5, "L", 265.5, 409, "Z"]
+                }, {
+                    "t": 11000,
+                    "v": ["M", 265.5, 409, "C", 265.5, 409, 274, 414, 279, 412.5, "C", 285.92, 410.424, 296.5, 406.5, 296.5, 406.5, "L", 308.5, 400, "L", 321, 394.5, "C", 324.0341267609973, 392.9238567399791, 339.4732697182049, 388.1339027452426, 341.2137561445843, 398.10740298335287, "C", 342.1576464198528, 403.5161724758697, 340.69037108729634, 407.6554566965745, 331.5, 407.5, "C", 321.346, 412.382, 315.654, 415.118, 305.5, 420, "C", 305.5, 420, 295.5, 428.5, 275.5, 430.5, "C", 264.014, 431.649, 255.5, 421.5, 255.5, 421.5, "L", 265.5, 409, "Z"]
+                }, {
+                    "t": 12000,
+                    "v": ["M", 265.5, 409, "C", 265.5, 409, 274, 414, 279, 412.5, "C", 285.92, 410.424, 296.5, 406.5, 296.5, 406.5, "L", 308.5, 400, "L", 321, 394.5, "C", 321, 394.5, 335, 386.5, 338.5, 396, "C", 342.821, 407.729, 331.5, 407.5, 331.5, 407.5, "C", 321.346, 412.382, 315.654, 415.118, 305.5, 420, "C", 305.5, 420, 295.5, 428.5, 275.5, 430.5, "C", 264.014, 431.649, 255.5, 421.5, 255.5, 421.5, "L", 265.5, 409, "Z"]
+                }, {
+                    "t": 13000,
+                    "v": ["M", 265.5, 409, "C", 265.5, 409, 274, 414, 279, 412.5, "C", 285.92, 410.424, 296.5, 406.5, 296.5, 406.5, "L", 308.5, 400, "L", 321, 394.5, "C", 324.0341267609973, 392.9238567399791, 339.4732697182049, 388.1339027452426, 341.2137561445843, 398.10740298335287, "C", 342.1576464198528, 403.5161724758697, 333.56038030338635, 408.81469557263364, 331.5, 407.5, "C", 321.346, 412.382, 315.654, 415.118, 305.5, 420, "C", 305.5, 420, 295.5, 428.5, 275.5, 430.5, "C", 264.014, 431.649, 255.5, 421.5, 255.5, 421.5, "L", 265.5, 409, "Z"]
+                }, {
+                    "t": 14000,
+                    "v": ["M", 265.5, 409, "C", 265.5, 409, 274, 414, 279, 412.5, "C", 285.92, 410.424, 296.5, 406.5, 296.5, 406.5, "L", 308.5, 400, "L", 321, 394.5, "C", 324.0341267609973, 392.9238567399791, 339.4732697182049, 388.1339027452426, 341.2137561445843, 398.10740298335287, "C", 342.1576464198528, 403.5161724758697, 340.69037108729634, 407.6554566965745, 331.5, 407.5, "C", 321.346, 412.382, 315.654, 415.118, 305.5, 420, "C", 305.5, 420, 295.5, 428.5, 275.5, 430.5, "C", 264.014, 431.649, 255.5, 421.5, 255.5, 421.5, "L", 265.5, 409, "Z"]
+                }, {
+                    "t": 15000,
+                    "v": ["M", 265.5, 409, "C", 265.5, 409, 274, 414, 279, 412.5, "C", 285.92, 410.424, 296.5, 406.5, 296.5, 406.5, "L", 308.5, 400, "L", 321, 394.5, "C", 329.2833258972963, 389.4962155089374, 339.4732697182049, 388.1339027452426, 341.2137561445843, 398.10740298335287, "C", 342.1576464198528, 403.5161724758697, 340.69037108729634, 407.6554566965745, 331.5, 407.5, "C", 321.346, 412.382, 315.654, 415.118, 305.5, 420, "C", 305.5, 420, 295.5, 428.5, 275.5, 430.5, "C", 264.014, 431.649, 255.5, 421.5, 255.5, 421.5, "L", 265.5, 409, "Z"]
+                }]
+            },
+            "svg-group-left-hand": {
+                "d": [{
+                    "t": 0,
+                    "v": ["M", 194, 347.5, "C", 194, 347.5, 202.5, 352.5, 207.5, 351, "C", 214.42, 348.924, 225, 345, 225, 345, "L", 237, 338.5, "L", 248.5, 331, "C", 248.5, 331, 262.947, 326.549, 267.5, 334, "C", 273, 343, 257, 345, 257, 345, "C", 246.846, 349.882, 241, 352.5, 234, 358.5, "C", 234, 358.5, 224, 367, 204, 369, "C", 192.514, 370.149, 184, 360, 184, 360, "L", 194, 347.5, "Z"]
+                }, {
+                    "t": 1000,
+                    "v": ["M", 194, 347.5, "C", 194, 347.5, 202.5, 352.5, 207.5, 351, "C", 214.42, 348.924, 225, 345, 225, 345, "L", 237, 338.5, "L", 248.5, 331, "C", 248.5, 331, 264.72120837552325, 328.3797980160401, 269.27420837552324, 335.83079801604015, "C", 274.77420837552324, 344.83079801604015, 257, 345, 257, 345, "C", 246.846, 349.882, 241, 352.5, 234, 358.5, "C", 234, 358.5, 224, 367, 204, 369, "C", 192.514, 370.149, 184, 360, 184, 360, "L", 194, 347.5, "Z"]
+                }, {
+                    "t": 2000,
+                    "v": ["M", 194, 347.5, "C", 194, 347.5, 202.5, 352.5, 207.5, 351, "C", 214.42, 348.924, 225, 345, 225, 345, "L", 237, 338.5, "L", 248.5, 331, "C", 248.5, 331, 264.72120837552325, 328.3797980160401, 269.27420837552324, 335.83079801604015, "C", 274.77420837552324, 344.83079801604015, 258.0883947301772, 347.38489105929784, 257, 345, "C", 246.846, 349.882, 241, 352.5, 234, 358.5, "C", 234, 358.5, 224, 367, 204, 369, "C", 192.514, 370.149, 184, 360, 184, 360, "L", 194, 347.5, "Z"]
+                }, {
+                    "t": 3000,
+                    "v": ["M", 194, 347.5, "C", 194, 347.5, 202.5, 352.5, 207.5, 351, "C", 214.42, 348.924, 225, 345, 225, 345, "L", 237, 338.5, "L", 248.5, 331, "C", 248.5, 331, 271.5110066869038, 327.39018528270134, 269.27420837552324, 335.83079801604015, "C", 267.9300614180358, 340.9029691935322, 258.0883947301772, 347.38489105929784, 257, 345, "C", 246.846, 349.882, 241, 352.5, 234, 358.5, "C", 234, 358.5, 224, 367, 204, 369, "C", 192.514, 370.149, 184, 360, 184, 360, "L", 194, 347.5, "Z"]
+                }, {
+                    "t": 4000,
+                    "v": ["M", 194, 347.5, "C", 194, 347.5, 202.5, 352.5, 207.5, 351, "C", 214.42, 348.924, 225, 345, 225, 345, "L", 237, 338.5, "L", 248.5, 331, "C", 248.5, 331, 262.947, 326.549, 267.5, 334, "C", 273, 343, 257, 345, 257, 345, "C", 246.846, 349.882, 241, 352.5, 234, 358.5, "C", 234, 358.5, 224, 367, 204, 369, "C", 192.514, 370.149, 184, 360, 184, 360, "L", 194, 347.5, "Z"]
+                }, {
+                    "t": 5000,
+                    "v": ["M", 194, 347.5, "C", 194, 347.5, 202.5, 352.5, 207.5, 351, "C", 214.42, 348.924, 225, 345, 225, 345, "L", 237, 338.5, "L", 248.5, 331, "C", 248.5, 331, 264.72120837552325, 328.3797980160401, 269.27420837552324, 335.83079801604015, "C", 274.77420837552324, 344.83079801604015, 257, 345, 257, 345, "C", 246.846, 349.882, 241, 352.5, 234, 358.5, "C", 234, 358.5, 224, 367, 204, 369, "C", 192.514, 370.149, 184, 360, 184, 360, "L", 194, 347.5, "Z"]
+                }, {
+                    "t": 6000,
+                    "v": ["M", 194, 347.5, "C", 194, 347.5, 202.5, 352.5, 207.5, 351, "C", 214.42, 348.924, 225, 345, 225, 345, "L", 237, 338.5, "L", 248.5, 331, "C", 248.5, 331, 264.72120837552325, 328.3797980160401, 269.27420837552324, 335.83079801604015, "C", 274.77420837552324, 344.83079801604015, 258.0883947301772, 347.38489105929784, 257, 345, "C", 246.846, 349.882, 241, 352.5, 234, 358.5, "C", 234, 358.5, 224, 367, 204, 369, "C", 192.514, 370.149, 184, 360, 184, 360, "L", 194, 347.5, "Z"]
+                }, {
+                    "t": 7000,
+                    "v": ["M", 194, 347.5, "C", 194, 347.5, 202.5, 352.5, 207.5, 351, "C", 214.42, 348.924, 225, 345, 225, 345, "L", 237, 338.5, "L", 248.5, 331, "C", 248.5, 331, 271.5110066869038, 327.39018528270134, 269.27420837552324, 335.83079801604015, "C", 267.9300614180358, 340.9029691935322, 258.0883947301772, 347.38489105929784, 257, 345, "C", 246.846, 349.882, 241, 352.5, 234, 358.5, "C", 234, 358.5, 224, 367, 204, 369, "C", 192.514, 370.149, 184, 360, 184, 360, "L", 194, 347.5, "Z"]
+                }, {
+                    "t": 8000,
+                    "v": ["M", 194, 347.5, "C", 194, 347.5, 202.5, 352.5, 207.5, 351, "C", 214.42, 348.924, 225, 345, 225, 345, "L", 237, 338.5, "L", 248.5, 331, "C", 248.5, 331, 262.947, 326.549, 267.5, 334, "C", 273, 343, 257, 345, 257, 345, "C", 246.846, 349.882, 241, 352.5, 234, 358.5, "C", 234, 358.5, 224, 367, 204, 369, "C", 192.514, 370.149, 184, 360, 184, 360, "L", 194, 347.5, "Z"]
+                }, {
+                    "t": 9000,
+                    "v": ["M", 194, 347.5, "C", 194, 347.5, 202.5, 352.5, 207.5, 351, "C", 214.42, 348.924, 225, 345, 225, 345, "L", 237, 338.5, "L", 248.5, 331, "C", 248.5, 331, 264.72120837552325, 328.3797980160401, 269.27420837552324, 335.83079801604015, "C", 274.77420837552324, 344.83079801604015, 257, 345, 257, 345, "C", 246.846, 349.882, 241, 352.5, 234, 358.5, "C", 234, 358.5, 224, 367, 204, 369, "C", 192.514, 370.149, 184, 360, 184, 360, "L", 194, 347.5, "Z"]
+                }, {
+                    "t": 10000,
+                    "v": ["M", 194, 347.5, "C", 194, 347.5, 202.5, 352.5, 207.5, 351, "C", 214.42, 348.924, 225, 345, 225, 345, "L", 237, 338.5, "L", 248.5, 331, "C", 248.5, 331, 264.72120837552325, 328.3797980160401, 269.27420837552324, 335.83079801604015, "C", 274.77420837552324, 344.83079801604015, 258.0883947301772, 347.38489105929784, 257, 345, "C", 246.846, 349.882, 241, 352.5, 234, 358.5, "C", 234, 358.5, 224, 367, 204, 369, "C", 192.514, 370.149, 184, 360, 184, 360, "L", 194, 347.5, "Z"]
+                }, {
+                    "t": 11000,
+                    "v": ["M", 194, 347.5, "C", 194, 347.5, 202.5, 352.5, 207.5, 351, "C", 214.42, 348.924, 225, 345, 225, 345, "L", 237, 338.5, "L", 248.5, 331, "C", 248.5, 331, 262.947, 326.549, 267.5, 334, "C", 273, 343, 257, 345, 257, 345, "C", 246.846, 349.882, 241, 352.5, 234, 358.5, "C", 234, 358.5, 224, 367, 204, 369, "C", 192.514, 370.149, 184, 360, 184, 360, "L", 194, 347.5, "Z"]
+                }, {
+                    "t": 12000,
+                    "v": ["M", 194, 347.5, "C", 194, 347.5, 202.5, 352.5, 207.5, 351, "C", 214.42, 348.924, 225, 345, 225, 345, "L", 237, 338.5, "L", 248.5, 331, "C", 248.5, 331, 264.72120837552325, 328.3797980160401, 269.27420837552324, 335.83079801604015, "C", 274.77420837552324, 344.83079801604015, 257, 345, 257, 345, "C", 246.846, 349.882, 241, 352.5, 234, 358.5, "C", 234, 358.5, 224, 367, 204, 369, "C", 192.514, 370.149, 184, 360, 184, 360, "L", 194, 347.5, "Z"]
+                }, {
+                    "t": 13000,
+                    "v": ["M", 194, 347.5, "C", 194, 347.5, 202.5, 352.5, 207.5, 351, "C", 214.42, 348.924, 225, 345, 225, 345, "L", 237, 338.5, "L", 248.5, 331, "C", 248.5, 331, 264.72120837552325, 328.3797980160401, 269.27420837552324, 335.83079801604015, "C", 274.77420837552324, 344.83079801604015, 258.0883947301772, 347.38489105929784, 257, 345, "C", 246.846, 349.882, 241, 352.5, 234, 358.5, "C", 234, 358.5, 224, 367, 204, 369, "C", 192.514, 370.149, 184, 360, 184, 360, "L", 194, 347.5, "Z"]
+                }, {
+                    "t": 14000,
+                    "v": ["M", 194, 347.5, "C", 194, 347.5, 202.5, 352.5, 207.5, 351, "C", 214.42, 348.924, 225, 345, 225, 345, "L", 237, 338.5, "L", 248.5, 331, "C", 248.5, 331, 271.5110066869038, 327.39018528270134, 269.27420837552324, 335.83079801604015, "C", 267.9300614180358, 340.9029691935322, 258.0883947301772, 347.38489105929784, 257, 345, "C", 246.846, 349.882, 241, 352.5, 234, 358.5, "C", 234, 358.5, 224, 367, 204, 369, "C", 192.514, 370.149, 184, 360, 184, 360, "L", 194, 347.5, "Z"]
+                }, {
+                    "t": 15000,
+                    "v": ["M", 194, 347.5, "C", 194, 347.5, 202.5, 352.5, 207.5, 351, "C", 214.42, 348.924, 225, 345, 225, 345, "L", 237, 338.5, "L", 248.5, 331, "C", 248.5, 331, 263.58806234803194, 329.03323059454016, 266.79206588550943, 337.15613471387013, "C", 267.8406352444208, 339.81450517609824, 262.37860862548445, 343.7934692790572, 257, 345, "C", 246.846, 349.882, 241, 352.5, 234, 358.5, "C", 234, 358.5, 224, 367, 204, 369, "C", 192.514, 370.149, 184, 360, 184, 360, "L", 194, 347.5, "Z"]
+                }],
+                "transform": {
+                    "data": {
+                        "o": {
+                            "x": 226.32542419433594,
+                            "y": 349.3858642578125,
+                            "type": "corner"
+                        },
+                        "t": {
+                            "x": -226.32542419433594,
+                            "y": -349.3858642578125
+                        }
+                    },
+                    "keys": {
+                        "r": [{
+                            "t": 0,
+                            "v": 0
+                        }, {
+                            "t": 1000,
+                            "v": 7.988231050228248
+                        }, {
+                            "t": 2000,
+                            "v": 4.763426381628107
+                        }, {
+                            "t": 3000,
+                            "v": 8.305882031261655
+                        }, {
+                            "t": 4000,
+                            "v": 0
+                        }, {
+                            "t": 5000,
+                            "v": 7.988231050228248
+                        }, {
+                            "t": 6000,
+                            "v": 4.763426381628107
+                        }, {
+                            "t": 7000,
+                            "v": 8.305882031261655
+                        }, {
+                            "t": 8000,
+                            "v": 0
+                        }, {
+                            "t": 9000,
+                            "v": 7.988231050228248
+                        }, {
+                            "t": 10000,
+                            "v": 4.763426381628107
+                        }, {
+                            "t": 11000,
+                            "v": 0
+                        }, {
+                            "t": 12000,
+                            "v": 7.988231050228248
+                        }, {
+                            "t": 13000,
+                            "v": 4.763426381628107
+                        }, {
+                            "t": 14000,
+                            "v": 8.305882031261655
+                        }, {
+                            "t": 15000,
+                            "v": -2.391217903749447
+                        }]
+                    }
+                }
+            },
+            "svg-group-code": {
+                "transform": {
+                    "data": {
+                        "t": {
+                            "x": -480.81700134277344,
+                            "y": -266.092529296875
+                        }
+                    },
+                    "keys": {
+                        "o": [{
+                            "t": 0,
+                            "v": {
+                                "x": 480.81700134277344,
+                                "y": 266.092529296875,
+                                "type": "corner"
+                            }
+                        }, {
+                            "t": 5000,
+                            "v": {
+                                "x": 487.9580923427734,
+                                "y": 273.581966296875,
+                                "type": "corner"
+                            }
+                        }, {
+                            "t": 10000,
+                            "v": {
+                                "x": 475.4176393427734,
+                                "y": 259.822302296875,
+                                "type": "corner"
+                            }
+                        }, {
+                            "t": 15000,
+                            "v": {
+                                "x": 480.86178834277337,
+                                "y": 266.14140429687507,
+                                "type": "corner"
+                            }
+                        }],
+                        "s": [{
+                            "t": 0,
+                            "v": {
+                                "x": 1,
+                                "y": 1
+                            }
+                        }, {
+                            "t": 5000,
+                            "v": {
+                                "x": 0.8629722661980309,
+                                "y": 0.8629722661980309
+                            },
+                            "e": [0.25, 1, 0.25, 1]
+                        }, {
+                            "t": 10000,
+                            "v": {
+                                "x": 0.7170657858383108,
+                                "y": 0.7170657858383108
+                            },
+                            "e": [0.25, 1, 0.25, 1]
+                        }, {
+                            "t": 15000,
+                            "v": {
+                                "x": 1,
+                                "y": 1
+                            },
+                            "e": [0.25, 1, 0.25, 1]
+                        }]
+                    }
+                }
+            },
+            "svg-group-html": {
+                "transform": {
+                    "data": {
+                        "t": {
+                            "x": -590.8169860839844,
+                            "y": -275.092529296875
+                        }
+                    },
+                    "keys": {
+                        "o": [{
+                            "t": 0,
+                            "v": {
+                                "x": 590.8169860839844,
+                                "y": 275.092529296875,
+                                "type": "corner",
+                                "end": {
+                                    "x": 686.3674841018268,
+                                    "y": 233.64226379795417
+                                }
+                            }
+                        }, {
+                            "t": 5000,
+                            "v": {
+                                "x": 584.6987780839844,
+                                "y": 267.827157296875,
+                                "type": "corner",
+                                "end": {
+                                    "x": 680.2492761018268,
+                                    "y": 226.37689179795416
+                                }
+                            }
+                        }, {
+                            "t": 10000,
+                            "v": {
+                                "x": 596.9351930839844,
+                                "y": 284.269841296875,
+                                "type": "corner",
+                                "end": {
+                                    "x": 692.4856911018268,
+                                    "y": 242.81957579795414
+                                }
+                            }
+                        }, {
+                            "t": 15000,
+                            "v": {
+                                "x": 590.8582260839844,
+                                "y": 275.08028029687495,
+                                "type": "corner",
+                                "end": {
+                                    "x": 686.4087241018268,
+                                    "y": 233.63001479795412
+                                }
+                            }
+                        }],
+                        "s": [{
+                            "t": 0,
+                            "v": {
+                                "x": 1,
+                                "y": 1
+                            }
+                        }, {
+                            "t": 5000,
+                            "v": {
+                                "x": 0.6066306681213602,
+                                "y": 0.6066306681213602
+                            },
+                            "e": [0.25, 1, 0.25, 1]
+                        }, {
+                            "t": 10000,
+                            "v": {
+                                "x": 1.2079890126675756,
+                                "y": 1.2079890126675756
+                            },
+                            "e": [0.25, 1, 0.25, 1]
+                        }, {
+                            "t": 15000,
+                            "v": {
+                                "x": 1,
+                                "y": 1
+                            },
+                            "e": [0.25, 1, 0.25, 1]
+                        }]
+                    }
+                }
+            },
+            "svg-group-js": {
+                "transform": {
+                    "data": {
+                        "t": {
+                            "x": -278.81700134277344,
+                            "y": -88.09268188476562
+                        }
+                    },
+                    "keys": {
+                        "o": [{
+                            "t": 0,
+                            "v": {
+                                "x": 278.81700134277344,
+                                "y": 88.09268188476562,
+                                "type": "corner"
+                            }
+                        }, {
+                            "t": 5000,
+                            "v": {
+                                "x": 292.38305634277344,
+                                "y": 105.79753388476563,
+                                "type": "corner"
+                            }
+                        }, {
+                            "t": 10000,
+                            "v": {
+                                "x": 269.8496083427735,
+                                "y": 75.90622588476563,
+                                "type": "corner"
+                            }
+                        }, {
+                            "t": 15000,
+                            "v": {
+                                "x": 278.9052953427735,
+                                "y": 88.19608688476563,
+                                "type": "corner"
+                            }
+                        }],
+                        "s": [{
+                            "t": 0,
+                            "v": {
+                                "x": 1,
+                                "y": 1
+                            }
+                        }, {
+                            "t": 5000,
+                            "v": {
+                                "x": 1.3597985478070789,
+                                "y": 1.3597985478070789
+                            },
+                            "e": [0.25, 1, 0.25, 1]
+                        }, {
+                            "t": 10000,
+                            "v": {
+                                "x": 0.5692259965049409,
+                                "y": 0.5465835290054579
+                            },
+                            "e": [0.25, 1, 0.25, 1]
+                        }, {
+                            "t": 15000,
+                            "v": {
+                                "x": 1,
+                                "y": 1
+                            },
+                            "e": [0.25, 1, 0.25, 1]
+                        }]
+                    }
+                }
+            },
+            "svg-group-css": {
+                "transform": {
+                    "data": {
+                        "t": {
+                            "x": -532.8169860839844,
+                            "y": -151.09253692626953
+                        }
+                    },
+                    "keys": {
+                        "o": [{
+                            "t": 0,
+                            "v": {
+                                "x": 532.8169860839844,
+                                "y": 151.09253692626953,
+                                "type": "corner"
+                            }
+                        }, {
+                            "t": 5000,
+                            "v": {
+                                "x": 536.8117510839844,
+                                "y": 170.70319992626955,
+                                "type": "corner"
+                            }
+                        }, {
+                            "t": 10000,
+                            "v": {
+                                "x": 527.7327390839844,
+                                "y": 134.38715592626954,
+                                "type": "corner"
+                            }
+                        }, {
+                            "t": 15000,
+                            "v": {
+                                "x": 532.8408500839844,
+                                "y": 151.29257192626955,
+                                "type": "corner"
+                            }
+                        }],
+                        "s": [{
+                            "t": 0,
+                            "v": {
+                                "x": 1,
+                                "y": 1
+                            }
+                        }, {
+                            "t": 5000,
+                            "v": {
+                                "x": 1.3557948075704,
+                                "y": 1.3557948075704
+                            },
+                            "e": [0.25, 1, 0.25, 1]
+                        }, {
+                            "t": 10000,
+                            "v": {
+                                "x": 1.4287627946473058,
+                                "y": 1.3719299807194356
+                            },
+                            "e": [0.25, 1, 0.25, 1]
+                        }, {
+                            "t": 15000,
+                            "v": {
+                                "x": 1,
+                                "y": 1
+                            },
+                            "e": [0.25, 1, 0.25, 1]
+                        }]
+                    }
+                }
+            },
+            "svg-group-typescript": {
+                "transform": {
+                    "data": {
+                        "t": {
+                            "x": -400.81700134277344,
+                            "y": -151.09253692626953
+                        }
+                    },
+                    "keys": {
+                        "o": [{
+                            "t": 0,
+                            "v": {
+                                "x": 400.81700134277344,
+                                "y": 151.09253692626953,
+                                "type": "corner"
+                            }
+                        }, {
+                            "t": 5000,
+                            "v": {
+                                "x": 408.02296134277344,
+                                "y": 159.66178592626952,
+                                "type": "corner"
+                            }
+                        }, {
+                            "t": 10000,
+                            "v": {
+                                "x": 392.57021234277346,
+                                "y": 141.7396949262695,
+                                "type": "corner"
+                            }
+                        }, {
+                            "t": 15000,
+                            "v": {
+                                "x": 400.80234634277343,
+                                "y": 151.2005059262695,
+                                "type": "corner"
+                            }
+                        }],
+                        "s": [{
+                            "t": 0,
+                            "v": {
+                                "x": 1,
+                                "y": 1
+                            }
+                        }, {
+                            "t": 5000,
+                            "v": {
+                                "x": 0.493881583670027,
+                                "y": 0.493881583670027
+                            },
+                            "e": [0.25, 1, 0.25, 1]
+                        }, {
+                            "t": 10000,
+                            "v": {
+                                "x": 1.147463881243335,
+                                "y": 1.1018204745869116
+                            },
+                            "e": [0.25, 1, 0.25, 1]
+                        }, {
+                            "t": 15000,
+                            "v": {
+                                "x": 1,
+                                "y": 1
+                            },
+                            "e": [0.25, 1, 0.25, 1]
+                        }]
+                    }
+                }
+            },
+            "svg-group-path137": {
+                "opacity": [{
+                    "t": 13000,
+                    "v": 0.02,
+                    "e": [0.25, 1, 0.25, 1]
+                }, {
+                    "t": 15000,
+                    "v": 1,
+                    "e": [0.25, 1, 0.25, 1]
+                }]
+            },
+            "svg-group-path138": {
+                "opacity": [{
+                    "t": 10200,
+                    "v": 0,
+                    "e": [0.25, 1, 0.25, 1]
+                }, {
+                    "t": 13000,
+                    "v": 1,
+                    "e": [0.25, 1, 0.25, 1]
+                }]
+            },
+            "svg-group-path139": {
+                "opacity": [{
+                    "t": 8400,
+                    "v": 0,
+                    "e": [0.25, 1, 0.25, 1]
+                }, {
+                    "t": 10200,
+                    "v": 1,
+                    "e": [0.25, 1, 0.25, 1]
+                }]
+            },
+            "svg-group-path140": {
+                "opacity": [{
+                    "t": 5000,
+                    "v": 0,
+                    "e": [0.25, 1, 0.25, 1]
+                }, {
+                    "t": 6000,
+                    "v": 1,
+                    "e": [0.25, 1, 0.25, 1]
+                }]
+            },
+            "svg-group-path141": {
+                "opacity": [{
+                    "t": 6000,
+                    "v": 0,
+                    "e": [0.25, 1, 0.25, 1]
+                }, {
+                    "t": 7000,
+                    "v": 1,
+                    "e": [0.25, 1, 0.25, 1]
+                }]
+            },
+            "svg-group-path142": {
+                "opacity": [{
+                    "t": 7000,
+                    "v": 0,
+                    "e": [0.25, 1, 0.25, 1]
+                }, {
+                    "t": 8400,
+                    "v": 1,
+                    "e": [0.25, 1, 0.25, 1]
+                }]
+            },
+            "svg-group-path143": {
+                "opacity": [{
+                    "t": 4000,
+                    "v": 0,
+                    "e": [0.25, 1, 0.25, 1]
+                }, {
+                    "t": 5000,
+                    "v": 1,
+                    "e": [0.25, 1, 0.25, 1]
+                }]
+            },
+            "svg-group-path144": {
+                "opacity": [{
+                    "t": 3000,
+                    "v": 0,
+                    "e": [0.25, 1, 0.25, 1]
+                }, {
+                    "t": 4000,
+                    "v": 1,
+                    "e": [0.25, 1, 0.25, 1]
+                }]
+            },
+            "svg-group-path145": {
+                "opacity": [{
+                    "t": 1600,
+                    "v": 0,
+                    "e": [0.25, 1, 0.25, 1]
+                }, {
+                    "t": 3000,
+                    "v": 1,
+                    "e": [0.25, 1, 0.25, 1]
+                }]
+            },
+            "svg-group-path159": {
+                "opacity": [{
+                    "t": 0,
+                    "v": 0,
+                    "e": [0.25, 1, 0.25, 1]
+                }, {
+                    "t": 1600,
+                    "v": 1,
+                    "e": [0.25, 1, 0.25, 1]
+                }]
+            },
+            "svg-group-console": {
+                "transform": {
+                    "data": {
+                        "t": {
+                            "x": -224,
+                            "y": -163.91223907470703
+                        }
+                    },
+                    "keys": {
+                        "o": [{
+                            "t": 0,
+                            "v": {
+                                "x": 224,
+                                "y": 163.91223907470703,
+                                "type": "corner"
+                            }
+                        }, {
+                            "t": 5000,
+                            "v": {
+                                "x": 212.68898,
+                                "y": 155.14619807470703,
+                                "type": "corner"
+                            }
+                        }, {
+                            "t": 10000,
+                            "v": {
+                                "x": 230.966263,
+                                "y": 169.25663907470704,
+                                "type": "corner"
+                            }
+                        }, {
+                            "t": 15000,
+                            "v": {
+                                "x": 223.86369200000001,
+                                "y": 163.85868507470704,
+                                "type": "corner"
+                            }
+                        }],
+                        "s": [{
+                            "t": 0,
+                            "v": {
+                                "x": 1,
+                                "y": 1
+                            }
+                        }, {
+                            "t": 5000,
+                            "v": {
+                                "x": 0.493881583670027,
+                                "y": 0.493881583670027
+                            },
+                            "e": [0.25, 1, 0.25, 1]
+                        }, {
+                            "t": 10000,
+                            "v": {
+                                "x": 1.147463881243335,
+                                "y": 1.1018204745869116
+                            },
+                            "e": [0.25, 1, 0.25, 1]
+                        }, {
+                            "t": 15000,
+                            "v": {
+                                "x": 1,
+                                "y": 1
+                            },
+                            "e": [0.25, 1, 0.25, 1]
+                        }]
+                    }
+                }
+            },
+            "svg-group-stat-2": {
+                "#size": [{
+                    "t": 0,
+                    "v": {
+                        "width": 28.999999999999993,
+                        "height": 21.40301126999998
+                    }
+                }, {
+                    "t": 1000,
+                    "v": {
+                        "width": 59.500000000000014,
+                        "height": 21.403011269791023
+                    }
+                }, {
+                    "t": 14000,
+                    "v": {
+                        "width": 59.500000000000014,
+                        "height": 21.403011269791023
+                    },
+                    "e": [0.25, 1, 0.25, 1]
+                }, {
+                    "t": 15000,
+                    "v": {
+                        "width": 28.999999999999993,
+                        "height": 21.40301126999998
+                    },
+                    "e": [0.25, 1, 0.25, 1]
+                }]
+            },
+            "svg-group-stat-3": {
+                "#size": [{
+                    "t": 0,
+                    "v": {
+                        "width": 28.999999999999996,
+                        "height": 21
+                    }
+                }, {
+                    "t": 1600,
+                    "v": {
+                        "width": 79.50000000000003,
+                        "height": 21
+                    }
+                }, {
+                    "t": 13400,
+                    "v": {
+                        "width": 79.50000000000003,
+                        "height": 21
+                    },
+                    "e": [0.25, 1, 0.25, 1]
+                }, {
+                    "t": 15000,
+                    "v": {
+                        "width": 28.999999999999996,
+                        "height": 21
+                    },
+                    "e": [0.25, 1, 0.25, 1]
+                }]
+            },
+            "svg-group-stat-4": {
+                "#size": [{
+                    "t": 0,
+                    "v": {
+                        "width": 29.000000000000025,
+                        "height": 21
+                    }
+                }, {
+                    "t": 2400,
+                    "v": {
+                        "width": 100.95237895499993,
+                        "height": 21
+                    }
+                }, {
+                    "t": 12600,
+                    "v": {
+                        "width": 100.95237895499993,
+                        "height": 21
+                    },
+                    "e": [0.25, 1, 0.25, 1]
+                }, {
+                    "t": 15000,
+                    "v": {
+                        "width": 29.000000000000025,
+                        "height": 21
+                    },
+                    "e": [0.25, 1, 0.25, 1]
+                }]
+            },
+            "svg-group-stat-5": {
+                "#size": [{
+                    "t": 0,
+                    "v": {
+                        "width": 28.999999999999996,
+                        "height": 21
+                    }
+                }, {
+                    "t": 3400,
+                    "v": {
+                        "width": 127.55503836000011,
+                        "height": 21.000000000804
+                    }
+                }, {
+                    "t": 11600,
+                    "v": {
+                        "width": 127.55503836000011,
+                        "height": 21.000000000804
+                    },
+                    "e": [0.25, 1, 0.25, 1]
+                }, {
+                    "t": 15000,
+                    "v": {
+                        "width": 28.999999999999996,
+                        "height": 21
+                    },
+                    "e": [0.25, 1, 0.25, 1]
+                }]
+            },
+            "svg-group-stat-6": {
+                "#size": [{
+                    "t": 0,
+                    "v": {
+                        "width": 29.000000000000018,
+                        "height": 22
+                    }
+                }, {
+                    "t": 4200,
+                    "v": {
+                        "width": 142.6600000000001,
+                        "height": 21.999999999999986
+                    }
+                }, {
+                    "t": 10800,
+                    "v": {
+                        "width": 142.6600000000001,
+                        "height": 21.999999999999986
+                    },
+                    "e": [0.25, 1, 0.25, 1]
+                }, {
+                    "t": 15000,
+                    "v": {
+                        "width": 29.000000000000018,
+                        "height": 22
+                    },
+                    "e": [0.25, 1, 0.25, 1]
+                }]
+            },
+            "svg-group-statistic-color": {
+                "opacity": [{
+                    "t": 0,
+                    "v": 0
+                }, {
+                    "t": 15000,
+                    "v": 1
+                }]
+            },
+            "svg-group-stat-speedometer": {
+                "transform": {
+                    "data": {
+                        "o": {
+                            "x": 384.75,
+                            "y": 1436.5,
+                            "type": "corner"
+                        },
+                        "t": {
+                            "x": -384.75,
+                            "y": -1436.5
+                        }
+                    },
+                    "keys": {
+                        "r": [{
+                            "t": 0,
+                            "v": -248.97635788046753,
+                            "e": [0.25, 1, 0.25, 1]
+                        }, {
+                            "t": 1000,
+                            "v": -199.86674033382957,
+                            "e": [0.25, 1, 0.25, 1]
+                        }, {
+                            "t": 2000,
+                            "v": -155.77966638326185,
+                            "e": [0.25, 1, 0.25, 1]
+                        }, {
+                            "t": 2800,
+                            "v": -109.11975295301711,
+                            "e": [0.25, 1, 0.25, 1]
+                        }, {
+                            "t": 4000,
+                            "v": -68.04701184575804,
+                            "e": [0.25, 1, 0.25, 1]
+                        }, {
+                            "t": 5200,
+                            "v": -63.127402563294474,
+                            "e": [0.25, 1, 0.25, 1]
+                        }, {
+                            "t": 6400,
+                            "v": -69.62571010714149,
+                            "e": [0.25, 1, 0.25, 1]
+                        }, {
+                            "t": 8000,
+                            "v": -74.7605158692091,
+                            "e": [0.25, 1, 0.25, 1]
+                        }, {
+                            "t": 9200,
+                            "v": -87.46434429002815,
+                            "e": [0.25, 1, 0.25, 1]
+                        }, {
+                            "t": 10400,
+                            "v": -4.104695664155565,
+                            "e": [0.25, 1, 0.25, 1]
+                        }, {
+                            "t": 11800,
+                            "v": -11.27951231583752,
+                            "e": [0.25, 1, 0.25, 1]
+                        }, {
+                            "t": 13000,
+                            "v": -3.9922448970230806,
+                            "e": [0.25, 1, 0.25, 1]
+                        }, {
+                            "t": 15000,
+                            "v": -252.04401640864978
+                        }]
+                    }
+                }
+            },
+            "svg-group-line-1": {
+                "stroke-dashoffset": [{
+                    "t": 0,
+                    "v": 49,
+                    "e": [0.25, 1, 0.25, 1]
+                }, {
+                    "t": 1000,
+                    "v": 0,
+                    "e": [0.25, 1, 0.25, 1]
+                }]
+            },
+            "svg-group-line-2": {
+                "stroke-dashoffset": [{
+                    "t": 1000,
+                    "v": 49.09,
+                    "e": [0.25, 1, 0.25, 1]
+                }, {
+                    "t": 2000,
+                    "v": 0,
+                    "e": [0.25, 1, 0.25, 1]
+                }]
+            },
+            "svg-group-line-3": {
+                "stroke-dashoffset": [{
+                    "t": 2000,
+                    "v": 61.72,
+                    "e": [0.25, 1, 0.25, 1]
+                }, {
+                    "t": 3000,
+                    "v": 0,
+                    "e": [0.25, 1, 0.25, 1]
+                }]
+            },
+            "svg-group-line-4": {
+                "stroke-dashoffset": [{
+                    "t": 3000,
+                    "v": 74,
+                    "e": [0.25, 1, 0.25, 1]
+                }, {
+                    "t": 4000,
+                    "v": 0,
+                    "e": [0.25, 1, 0.25, 1]
+                }]
+            },
+            "svg-group-line-5": {
+                "stroke-dashoffset": [{
+                    "t": 4000,
+                    "v": 74,
+                    "e": [0.25, 1, 0.25, 1]
+                }, {
+                    "t": 5000,
+                    "v": 0,
+                    "e": [0.25, 1, 0.25, 1]
+                }]
+            },
+            "svg-group-line-6": {
+                "stroke-dashoffset": [{
+                    "t": 5000,
+                    "v": 53.8,
+                    "e": [0.25, 1, 0.25, 1]
+                }, {
+                    "t": 6000,
+                    "v": 0,
+                    "e": [0.25, 1, 0.25, 1]
+                }]
+            },
+            "svg-group-line-7": {
+                "stroke-dashoffset": [{
+                    "t": 6000,
+                    "v": 59.09,
+                    "e": [0.25, 1, 0.25, 1]
+                }, {
+                    "t": 7400,
+                    "v": 0,
+                    "e": [0.25, 1, 0.25, 1]
+                }]
+            },
+            "svg-group-line-8": {
+                "stroke-dashoffset": [{
+                    "t": 7400,
+                    "v": 50.61,
+                    "e": [0.25, 1, 0.25, 1]
+                }, {
+                    "t": 8600,
+                    "v": 0,
+                    "e": [0.25, 1, 0.25, 1]
+                }]
+            },
+            "svg-group-line-9": {
+                "stroke-dashoffset": [{
+                    "t": 8600,
+                    "v": 50.61,
+                    "e": [0.25, 1, 0.25, 1]
+                }, {
+                    "t": 10000,
+                    "v": 0,
+                    "e": [0.25, 1, 0.25, 1]
+                }]
+            },
+            "svg-group-line-10": {
+                "stroke-dashoffset": [{
+                    "t": 10000,
+                    "v": 50.61,
+                    "e": [0.25, 1, 0.25, 1]
+                }, {
+                    "t": 11600,
+                    "v": 0,
+                    "e": [0.25, 1, 0.25, 1]
+                }]
+            },
+            "svg-group-line-11": {
+                "stroke-dashoffset": [{
+                    "t": 11600,
+                    "v": 80.22,
+                    "e": [0.25, 1, 0.25, 1]
+                }, {
+                    "t": 13400,
+                    "v": 0,
+                    "e": [0.25, 1, 0.25, 1]
+                }]
+            },
+            "svg-group-line-12": {
+                "stroke-dashoffset": [{
+                    "t": 13400,
+                    "v": 36.09,
+                    "e": [0.25, 1, 0.25, 1]
+                }, {
+                    "t": 15000,
+                    "v": 0,
+                    "e": [0.25, 1, 0.25, 1]
+                }]
+            },
+            "svg-group-blue-left-line-1": {
+                "stroke-dashoffset": [{
+                    "t": 0,
+                    "v": 41.03
+                }, {
+                    "t": 1000,
+                    "v": 0
+                }]
+            },
+            "svg-group-yellow-line-3": {
+                "stroke-dashoffset": [{
+                    "t": 2000,
+                    "v": 83
+                }, {
+                    "t": 4000,
+                    "v": 0
+                }]
+            },
+            "svg-group-brown-line-bottom-3": {
+                "stroke-dashoffset": [{
+                    "t": 2000,
+                    "v": 146
+                }, {
+                    "t": 4000,
+                    "v": 0
+                }]
+            },
+            "svg-group-yellow-line-2": {
+                "stroke-dashoffset": [{
+                    "t": 1000,
+                    "v": 31.62
+                }, {
+                    "t": 2000,
+                    "v": 0
+                }]
+            },
+            "svg-group-yellow-line-1": {
+                "stroke-dashoffset": [{
+                    "t": 0,
+                    "v": 43.22
+                }, {
+                    "t": 1000,
+                    "v": 0
+                }]
+            },
+            "svg-group-blue-line-path-3": {
+                "stroke-dashoffset": [{
+                    "t": 2500,
+                    "v": 60.78
+                }, {
+                    "t": 4500,
+                    "v": 0
+                }]
+            },
+            "svg-group-brown-line-bottom-2": {
+                "stroke-dashoffset": [{
+                    "t": 1000,
+                    "v": 38
+                }, {
+                    "t": 2000,
+                    "v": 0
+                }]
+            },
+            "svg-group-blue-line-left-2": {
+                "stroke-dashoffset": [{
+                    "t": 0,
+                    "v": 88
+                }, {
+                    "t": 1000,
+                    "v": 86.59
+                }, {
+                    "t": 2500,
+                    "v": 0
+                }]
+            },
+            "svg-group-pink-line-3": {
+                "stroke-dashoffset": [{
+                    "t": 2500,
+                    "v": 86
+                }, {
+                    "t": 4500,
+                    "v": 0
+                }]
+            },
+            "svg-group-pink-line-2": {
+                "stroke-dashoffset": [{
+                    "t": 2000,
+                    "v": 38
+                }, {
+                    "t": 2500,
+                    "v": 0
+                }]
+            },
+            "svg-group-pink-line-1": {
+                "stroke-dashoffset": [{
+                    "t": 0,
+                    "v": 107
+                }, {
+                    "t": 2000,
+                    "v": 0
+                }]
+            },
+            "svg-group-black-line-2": {
+                "stroke-dashoffset": [{
+                    "t": 3200,
+                    "v": 46
+                }, {
+                    "t": 4000,
+                    "v": 0
+                }]
+            },
+            "svg-group-black-line-1": {
+                "stroke-dashoffset": [{
+                    "t": 2300,
+                    "v": 47.78
+                }, {
+                    "t": 3200,
+                    "v": 0
+                }]
+            },
+            "svg-group-red-left-2": {
+                "stroke-dashoffset": [{
+                    "t": 1500,
+                    "v": 183
+                }, {
+                    "t": 4600,
+                    "v": 0
+                }]
+            },
+            "svg-group-red-left-1": {
+                "stroke-dashoffset": [{
+                    "t": 0,
+                    "v": 87.73
+                }, {
+                    "t": 1500,
+                    "v": 0
+                }]
+            },
+            "svg-group-admin-blue-path-2": {
+                "stroke-dashoffset": [{
+                    "t": 1000,
+                    "v": 30.48
+                }, {
+                    "t": 2000,
+                    "v": 0
+                }]
+            },
+            "svg-group-admin-blue-path-3": {
+                "stroke-dashoffset": [{
+                    "t": 2000,
+                    "v": 151
+                }, {
+                    "t": 4000,
+                    "v": 0
+                }]
+            },
+            "svg-group-admin-blue-path-1": {
+                "stroke-dashoffset": [{
+                    "t": 0,
+                    "v": 80
+                }, {
+                    "t": 1000,
+                    "v": 0
+                }]
+            },
+            "svg-group-orange-line-2": {
+                "stroke-dashoffset": [{
+                    "t": 1000,
+                    "v": 21.26
+                }, {
+                    "t": 2000,
+                    "v": 0
+                }]
+            },
+            "svg-group-orange-line-3": {
+                "stroke-dashoffset": [{
+                    "t": 2000,
+                    "v": 82
+                }, {
+                    "t": 3100,
+                    "v": 0
+                }]
+            },
+            "svg-group-pink-line-22": {
+                "stroke-dashoffset": [{
+                    "t": 2000,
+                    "v": 32.8
+                }, {
+                    "t": 2500,
+                    "v": 0
+                }]
+            },
+            "svg-group-orange-line-1": {
+                "stroke-dashoffset": [{
+                    "t": 0,
+                    "v": 78
+                }, {
+                    "t": 1000,
+                    "v": 0
+                }]
+            },
+            "svg-group-green-line-3": {
+                "stroke-dashoffset": [{
+                    "t": 1500,
+                    "v": 85
+                }, {
+                    "t": 3500,
+                    "v": 0
+                }]
+            },
+            "svg-group-green-line-2": {
+                "stroke-dashoffset": [{
+                    "t": 1000,
+                    "v": 30.81
+                }, {
+                    "t": 1500,
+                    "v": 0
+                }]
+            },
+            "svg-group-orange-line-left-3": {
+                "stroke-dashoffset": [{
+                    "t": 2000,
+                    "v": 21
+                }, {
+                    "t": 2700,
+                    "v": 0
+                }]
+            },
+            "svg-group-blue-left-4": {
+                "stroke-dashoffset": [{
+                    "t": 2200,
+                    "v": 61
+                }, {
+                    "t": 3000,
+                    "v": 0
+                }]
+            },
+            "svg-group-blue-left-2": {
+                "stroke-dashoffset": [{
+                    "t": 1000,
+                    "v": 46
+                }, {
+                    "t": 2700,
+                    "v": 0
+                }]
+            },
+            "svg-group-orangle-line-left-1": {
+                "stroke-dashoffset": [{
+                    "t": 1000,
+                    "v": 38
+                }, {
+                    "t": 2000,
+                    "v": 0
+                }]
+            },
+            "svg-group-blue-left-line": {
+                "stroke-dashoffset": [{
+                    "t": 0,
+                    "v": 68.18
+                }, {
+                    "t": 1000,
+                    "v": 0
+                }]
+            },
+            "svg-group-green-left-line": {
+                "stroke-dashoffset": [{
+                    "t": 0,
+                    "v": 43.5
+                }, {
+                    "t": 700,
+                    "v": 0
+                }]
+            },
+            "svg-group-blue-right-line": {
+                "stroke-dashoffset": [{
+                    "t": 0,
+                    "v": 71
+                }, {
+                    "t": 1000,
+                    "v": 0
+                }]
+            },
+            "svg-group-green-right-line2": {
+                "stroke-dashoffset": [{
+                    "t": 0,
+                    "v": 61.5
+                }, {
+                    "t": 1000,
+                    "v": 0
+                }]
+            },
+            "svg-group-orange-line-left": {
+                "stroke-dashoffset": [{
+                    "t": 0,
+                    "v": 68.18
+                }, {
+                    "t": 1000,
+                    "v": 0
+                }]
+            },
+            "svg-group-orange-line-right": {
+                "stroke-dashoffset": [{
+                    "t": 0,
+                    "v": 44.29
+                }, {
+                    "t": 800,
+                    "v": 0
+                }]
+            },
+            "svg-group-brown-line-bottom": {
+                "stroke-dashoffset": [{
+                    "t": 0,
+                    "v": 46.13
+                }, {
+                    "t": 1000,
+                    "v": 0
+                }]
+            },
+            "svg-group-brown-line-top": {
+                "stroke-dashoffset": [{
+                    "t": 0,
+                    "v": 27.5
+                }, {
+                    "t": 1000,
+                    "v": 0
+                }]
+            },
+            "svg-group-pink-line-12": {
+                "stroke-dashoffset": [{
+                    "t": 0,
+                    "v": 95
+                }, {
+                    "t": 2000,
+                    "v": 0
+                }]
+            },
+            "svg-group-orange-right-circle": {
+                "opacity": [{
+                    "t": 840,
+                    "v": 0
+                }, {
+                    "t": 1040,
+                    "v": 1
+                }]
+            },
+            "svg-group-red-left-circle": {
+                "opacity": [{
+                    "t": 4600,
+                    "v": 0
+                }, {
+                    "t": 4900,
+                    "v": 1
+                }]
+            },
+            "svg-group-green-circle-left": {
+                "opacity": [{
+                    "t": 700,
+                    "v": 0
+                }, {
+                    "t": 1000,
+                    "v": 1
+                }]
+            },
+            "svg-group-black-circle": {
+                "opacity": [{
+                    "t": 4000,
+                    "v": 0
+                }, {
+                    "t": 4300,
+                    "v": 1
+                }]
+            },
+            "svg-group-orange-circle-left": {
+                "opacity": [{
+                    "t": 2700,
+                    "v": 0
+                }, {
+                    "t": 3000,
+                    "v": 1
+                }]
+            },
+            "svg-group-pink-db-group": {
+                "opacity": [{
+                    "t": 2100,
+                    "v": 0
+                }, {
+                    "t": 2300,
+                    "v": 1
+                }]
+            },
+            "svg-group-green-circle": {
+                "opacity": [{
+                    "t": 3500,
+                    "v": 0
+                }, {
+                    "t": 3800,
+                    "v": 1
+                }]
+            },
+            "svg-group-brown-circle": {
+                "opacity": [{
+                    "t": 1000,
+                    "v": 0
+                }, {
+                    "t": 1200,
+                    "v": 1
+                }]
+            },
+            "svg-group-admin-setting-group": {
+                "opacity": [{
+                    "t": 3700,
+                    "v": 0
+                }, {
+                    "t": 4000,
+                    "v": 1
+                }]
+            },
+            "svg-group-orange-circle": {
+                "opacity": [{
+                    "t": 3100,
+                    "v": 0
+                }, {
+                    "t": 3300,
+                    "v": 1
+                }]
+            },
+            "svg-group-blue-right-circle": {
+                "opacity": [{
+                    "t": 1000,
+                    "v": 0
+                }, {
+                    "t": 1200,
+                    "v": 1
+                }]
+            },
+            "svg-group-monitoring": {
+                "opacity": [{
+                    "t": 4500,
+                    "v": 0
+                }, {
+                    "t": 4800,
+                    "v": 1
+                }]
+            },
+            "svg-group-brown-console-bottom": {
+                "opacity": [{
+                    "t": 3700,
+                    "v": 0
+                }, {
+                    "t": 4000,
+                    "v": 1
+                }]
+            },
+            "svg-group-pink-right-code": {
+                "opacity": [{
+                    "t": 3900,
+                    "v": 0
+                }, {
+                    "t": 4200,
+                    "v": 1
+                }]
+            },
+            "svg-group-blue-big-circle": {
+                "opacity": [{
+                    "t": 3000,
+                    "v": 0
+                }, {
+                    "t": 3300,
+                    "v": 1
+                }]
+            },
+            "svg-group-yellow-circle": {
+                "opacity": [{
+                    "t": 4000,
+                    "v": 0
+                }, {
+                    "t": 4300,
+                    "v": 1
+                }]
+            },
+            "svg-group-phone-screen": {
+                "fill": [{
+                    "t": 0,
+                    "v": {
+                        "t": "g",
+                        "v": [{
+                            "r": 140,
+                            "g": 255,
+                            "b": 243,
+                            "a": 1
+                        }, {
+                            "r": 214,
+                            "g": 142,
+                            "b": 33,
+                            "a": 1
+                        }],
+                        "r": "svg-group-phone-screen-fill"
+                    }
+                }, {
+                    "t": 2000,
+                    "v": {
+                        "t": "g",
+                        "v": [{
+                            "r": 75,
+                            "g": 140,
+                            "b": 244,
+                            "a": 1
+                        }, {
+                            "r": 143,
+                            "g": 33,
+                            "b": 216,
+                            "a": 1
+                        }],
+                        "r": "svg-group-phone-screen-fill"
+                    }
+                }, {
+                    "t": 4000,
+                    "v": {
+                        "t": "g",
+                        "v": [{
+                            "r": 140,
+                            "g": 255,
+                            "b": 243,
+                            "a": 1
+                        }, {
+                            "r": 214,
+                            "g": 142,
+                            "b": 33,
+                            "a": 1
+                        }],
+                        "r": "svg-group-phone-screen-fill"
+                    }
+                }, {
+                    "t": 6000,
+                    "v": {
+                        "t": "g",
+                        "v": [{
+                            "r": 140,
+                            "g": 255,
+                            "b": 243,
+                            "a": 1
+                        }, {
+                            "r": 214,
+                            "g": 142,
+                            "b": 33,
+                            "a": 1
+                        }],
+                        "r": "svg-group-phone-screen-fill"
+                    }
+                }, {
+                    "t": 8000,
+                    "v": {
+                        "t": "g",
+                        "v": [{
+                            "r": 75,
+                            "g": 140,
+                            "b": 244,
+                            "a": 1
+                        }, {
+                            "r": 143,
+                            "g": 33,
+                            "b": 216,
+                            "a": 1
+                        }],
+                        "r": "svg-group-phone-screen-fill"
+                    }
+                }, {
+                    "t": 10000,
+                    "v": {
+                        "t": "g",
+                        "v": [{
+                            "r": 140,
+                            "g": 255,
+                            "b": 243,
+                            "a": 1
+                        }, {
+                            "r": 214,
+                            "g": 142,
+                            "b": 33,
+                            "a": 1
+                        }],
+                        "r": "svg-group-phone-screen-fill"
+                    }
+                }, {
+                    "t": 12000,
+                    "v": {
+                        "t": "g",
+                        "v": [{
+                            "r": 75,
+                            "g": 140,
+                            "b": 244,
+                            "a": 1
+                        }, {
+                            "r": 143,
+                            "g": 33,
+                            "b": 216,
+                            "a": 1
+                        }],
+                        "r": "svg-group-phone-screen-fill"
+                    }
+                }, {
+                    "t": 15000,
+                    "v": {
+                        "t": "g",
+                        "v": [{
+                            "r": 140,
+                            "g": 255,
+                            "b": 243,
+                            "a": 1
+                        }, {
+                            "r": 214,
+                            "g": 142,
+                            "b": 33,
+                            "a": 1
+                        }],
+                        "r": "svg-group-phone-screen-fill"
+                    }
+                }]
+            },
+            "svg-group-phone-top-line": {
+                "opacity": [{
+                    "t": 0,
+                    "v": 0
+                }, {
+                    "t": 2000,
+                    "v": 1
+                }]
+            },
+            "svg-group-phone-bottom-button": {
+                "opacity": [{
+                    "t": 0,
+                    "v": 0
+                }, {
+                    "t": 2000,
+                    "v": 1
+                }, {
+                    "t": 4000,
+                    "v": 0
+                }, {
+                    "t": 6000,
+                    "v": 1
+                }, {
+                    "t": 8000,
+                    "v": 0
+                }, {
+                    "t": 10000,
+                    "v": 1
+                }, {
+                    "t": 12400,
+                    "v": 0
+                }, {
+                    "t": 15000,
+                    "v": 1
+                }]
+            },
+            "svg-group-phone-top-point": {
+                "opacity": [{
+                    "t": 0,
+                    "v": 0
+                }, {
+                    "t": 2000,
+                    "v": 1
+                }]
+            }
+        }
+    }],
+    "options": {
+        "start": "load",
+        "hover": "freeze",
+        "click": "freeze",
+        "scroll": 25,
+        "font": "embed",
+        "exportedIds": "names",
+        "title": "svg group"
+    },
+    "animationSettings": {
+        "duration": 15000,
+        "direction": 1,
+        "iterations": 0,
+        "fill": 1,
+        "alternate": false
+    }
+})]]> 
+</script>
+</svg>
