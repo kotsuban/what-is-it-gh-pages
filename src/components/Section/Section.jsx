@@ -32,6 +32,7 @@ const Section = ({ sectionName, children, className, id }) => {
 
   inView(".section-name").on("enter", (el) => {
     runConcole(el);
+    console.log("section-name in view!");
   });
 
   return (
