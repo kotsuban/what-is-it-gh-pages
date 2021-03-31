@@ -16,6 +16,12 @@ object-assign
  * License: MIT
  */
 
+/*!
+ * in-view-modern 0.6.2 - Get notified when a DOM element enters or exits the viewport.
+ * Copyright (c) 2020 Pillyx <1020450921@qq.com> - https://github.com/phillyx/in-view
+ * License: MIT
+ */
+
 /** @license React v0.20.1
  * scheduler.production.min.js
  *
