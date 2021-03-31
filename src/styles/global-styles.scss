@@ -1,0 +1,150 @@
+@font-face {
+  font-family: "Proxima Nova";
+  src: url(../assets/fonts/ProximaNova-Bold.ttf);
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: "Proxima Nova";
+  src: url(../assets/fonts/ProximaNova-Extrabld.ttf);
+  font-weight: 800;
+}
+
+@font-face {
+  font-family: "Proxima Nova";
+  src: url(../assets/fonts/ProximaNova-Light.ttf);
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: "Proxima Nova";
+  src: url(../assets/fonts/ProximaNova-Regular.ttf);
+}
+
+@font-face {
+  font-family: "Proxima Nova";
+  src: url(../assets/fonts/ProximaNova-Semibold.ttf);
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: "Consolas";
+  src: url(../assets/fonts/Consolas.ttf);
+}
+
+@font-face {
+  font-family: "Consolas";
+  src: url(../assets/fonts/Consolas-Bold.ttf);
+  font-weight: 700;
+}
+
+html {
+  box-sizing: border-box;
+}
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Proxima Nova", sans-serif !important;
+  padding: 0;
+  margin: 0;
+  background-color: #0b0e11 !important;
+  cursor: auto !important;
+  color: #ffffff !important;
+}
+
+a {
+  text-decoration: none !important;
+}
+
+button {
+  background-color: transparent;
+  border: none;
+}
+
+button:focus {
+  outline: none !important;
+  //border: none;
+}
+
+input:focus,
+textarea:focus,
+select:focus {
+  outline: none;
+}
+
+ul,
+li {
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+p {
+  //margin: 0 !important;
+}
+
+::-webkit-scrollbar {
+  width: 7px;
+}
+
+::-webkit-scrollbar-track {
+  background: #0b0e11;
+}
+
+.main-container {
+  width: 1640px;
+  margin: 0 auto;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #f93c47;
+  border-radius: 5px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #ac232b;
+}
+
+.col {
+  height: fit-content;
+  margin-bottom: 30px;
+}
+
+.bg-animation {
+  width: 100%;
+  height: 100vh;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  z-index: 0;
+}
+
+@media (max-width: 1645px) {
+  .main-container,
+  .opportunity-cons {
+    width: 100% !important;
+    margin: 0 auto !important;
+    padding: 0 15px;
+  }
+  .want-try {
+    .line {
+      width: 100% !important;
+    }
+  }
+}
+
+.header,
+.what-is-it,
+.type-of-jobs,
+.who-is-dev,
+.opportunity {
+  padding: 0 15px !important;
+}

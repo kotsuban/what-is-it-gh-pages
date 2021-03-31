@@ -1,0 +1,97 @@
+.who-is-dev {
+  height: 100vh;
+
+  &-description {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    h1 {
+      font-style: normal;
+      font-weight: bold;
+      font-size: 70px;
+      margin-bottom: 30px;
+    }
+  }
+  .line {
+    font-size: 65px;
+    display: none !important;
+  }
+}
+
+.who-is-dev-line {
+  display: flex;
+  align-items: center;
+  position: relative;
+  font-size: 65px;
+}
+
+@media (max-width: 1576px) {
+  .who-is-dev-description {
+    .who-is-dev-title {
+      font-size: 55px;
+      width: 626px;
+    }
+    p {
+      font-size: 25px;
+      max-width: 600px;
+    }
+  }
+}
+
+@media (max-width: 1310px) {
+  .who-is-dev {
+    height: auto;
+    margin-top: 100px;
+    .line {
+      display: flex !important;
+    }
+    .section-content {
+      flex-direction: column;
+      align-items: center;
+      margin-top: 90px;
+    }
+  }
+  .who-is-dev-line {
+    display: none;
+  }
+  .who-is-dev-illustration {
+    object {
+      max-width: 560px;
+      max-height: 600px;
+      width: 100%;
+      height: auto;
+    }
+  }
+  .who-is-dev-description {
+    p {
+      margin-top: 20px;
+    }
+  }
+}
+
+@media (max-width: 940px) {
+  .who-is-dev .line .section-name {
+    font-size: 60px;
+  }
+}
+
+@media (max-width: 800px) {
+  .who-is-dev .line .section-name,
+  .prompt {
+    font-size: 40px;
+  }
+}
+
+@media (max-width: 510px) {
+  .who-is-dev {
+    .line {
+      .section-name {
+        font-size: 6.5vw;
+      }
+    }
+  }
+  .job-name {
+    font-size: 35px;
+  }
+}

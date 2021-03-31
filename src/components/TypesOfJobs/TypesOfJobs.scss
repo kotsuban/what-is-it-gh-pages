@@ -1,0 +1,178 @@
+.type-of-jobs {
+  height: 90vh;
+  margin-top: 10vh;
+
+  &-description {
+    margin-top: 35px;
+  }
+  .section-content {
+    margin-top: 90px;
+  }
+}
+
+.job-name {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 60px;
+  line-height: 60px;
+  span {
+    color: #1f1e1e;
+  }
+  &::before {
+    content: "-";
+    color: #f93c47;
+  }
+}
+
+.job-picture {
+  object {
+    width: 570px;
+  }
+}
+
+@media (max-width: 1576px) {
+  .job-picture {
+    object {
+      max-width: 570px;
+      max-height: 420px;
+      width: 100% !important;
+      height: auto;
+    }
+  }
+
+  .type-of-jobs-description {
+    font-size: 25px;
+    max-width: 600px;
+  }
+  .job-name {
+    font-size: 55px;
+  }
+  .type-of-jobs {
+    .line {
+      .section-name {
+        font-size: 65px;
+      }
+    }
+  }
+}
+
+.jobs-container {
+  display: flex;
+  justify-content: space-between;
+  height: 30rem;
+}
+
+.job-info {
+  text-align: initial;
+}
+
+.carousel-root {
+  width: 100% !important;
+}
+
+.prev-button,
+.next-button,
+.carousel-status {
+  font-family: "Consolas";
+  color: #f93c47 !important;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 52px !important;
+  z-index: 2;
+  line-height: 42px;
+}
+
+.prev-button {
+  position: absolute;
+  right: 359px;
+  bottom: 0;
+}
+
+.next-button {
+  position: absolute;
+  right: 150px;
+  bottom: 0;
+}
+
+.carousel-status {
+  top: auto !important;
+  right: 200px !important;
+  bottom: -33px !important;
+  padding: 0px !important;
+  z-index: 1;
+}
+
+.control-dots {
+  display: none !important;
+}
+
+@media (max-width: 1310px) {
+  .type-of-jobs {
+    height: auto;
+  }
+  .jobs-container {
+    flex-direction: column-reverse;
+    align-items: center;
+    height: auto;
+  }
+  .control-dots {
+    display: block !important;
+  }
+  .carousel-status {
+    bottom: 0% !important;
+    right: 50% !important;
+    transform: translate(50%, -50%);
+  }
+  .next-button {
+    display: none;
+  }
+  .prev-button {
+    display: none;
+  }
+  .job-info {
+    margin: 50px 0px 100px;
+  }
+}
+
+@media (max-width: 940px) {
+  .type-of-jobs .line .section-name {
+    font-size: 60px;
+  }
+}
+
+@media (max-width: 800px) {
+  .type-of-jobs .line .section-name,
+  .prompt,
+  .job-name {
+    font-size: 40px;
+  }
+}
+
+@media (max-width: 480px) {
+  .carousel-status {
+    font-size: 35px !important;
+    bottom: 0.5% !important;
+  }
+}
+
+@media (max-width: 400px) {
+  .type-of-jobs {
+    .line {
+      .section-name {
+        font-size: 28px;
+      }
+    }
+  }
+  .job-name {
+    font-size: 35px;
+  }
+}
+
+@media (max-width: 374px) {
+  .job-name {
+    font-size: 30px;
+  }
+  .type-of-jobs-description {
+    font-size: 20px;
+  }
+}

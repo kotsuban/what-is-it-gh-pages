@@ -1,0 +1,189 @@
+.want-try-container {
+  margin-top: 100px;
+  display: flex;
+  margin-bottom: 90px;
+  left: 0;
+  width: 100%;
+}
+
+.want-try {
+  .section-name {
+    h2 {
+      width: 1640px;
+      margin: 0 auto;
+    }
+  }
+  .line {
+    width: 1640px;
+    margin: 0 auto;
+    padding: 0 15px;
+  }
+}
+
+.college-info {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #15171f;
+  width: 50%;
+  min-height: 651px;
+  &__back {
+    text-align: left;
+    width: 100%;
+    font-weight: 700;
+    font-size: 30px;
+    padding-top: 20px;
+    padding-left: 20px;
+    cursor: pointer;
+    &::before {
+      content: "<";
+      font-family: "Consolas";
+      color: #f93c47;
+      margin-right: 15px;
+    }
+  }
+  &__content {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    justify-content: center;
+    margin-top: 20px;
+  }
+  &__input {
+    margin-bottom: 40px;
+    background-color: transparent;
+    border: 2px solid #f93c47;
+    padding: 9px 0px;
+  }
+  &__link {
+    text-align: center;
+    color: #f93c47;
+    font-weight: 700;
+    &:hover {
+      color: #ac232b;
+    }
+  }
+  p {
+    margin-left: 15px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 31px;
+  }
+}
+
+.college-form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #15171f;
+  &__top {
+  }
+}
+
+.college-name {
+  font-family: "Consolas";
+  font-style: normal;
+  font-weight: bold;
+  font-size: 40px;
+  line-height: 47px;
+  text-align: center;
+  color: #f93c47;
+  margin-bottom: 15px;
+}
+
+.college-button {
+  margin-top: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.college-photo {
+  width: 50%;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  img {
+    height: 100%;
+    width: auto;
+  }
+}
+
+.my-node-enter {
+  opacity: 0;
+  //transform: scale(0.9);
+}
+.my-node-enter-active {
+  opacity: 1;
+  //transform: translateX(0);
+  transition: opacity 1000ms;
+}
+.my-node-exit {
+  opacity: 0;
+}
+.my-node-exit-active {
+  opacity: 1;
+  //transform: scale(0.9);
+  transition: opacity 1000ms;
+}
+
+@media (max-width: 1370px) {
+  .want-try-container {
+    margin-bottom: 0px;
+  }
+}
+
+@media (max-width: 1100px) {
+  .college-name {
+    font-size: 30px;
+  }
+  .college-info {
+    p {
+      font-size: 25px;
+    }
+  }
+}
+
+@media (max-width: 800px) {
+  .want-try .line .section-name,
+  .prompt {
+    font-size: 40px;
+  }
+  .college-name {
+    font-size: 25px;
+  }
+  .college-info {
+    p {
+      font-size: 20px;
+    }
+  }
+  .college-button {
+    .button {
+      font-size: 18px;
+    }
+  }
+  .want-try-container {
+    flex-direction: column;
+  }
+  .college-photo {
+    height: 28rem;
+    width: 100%;
+  }
+  .college-info {
+    width: 100%;
+    min-height: 300px;
+  }
+}
+
+.college-info__input {
+  color: #fff;
+  padding-left: 15px;
+}
+
+@media (max-width: 440px) {
+  .want-try {
+    .line {
+      .section-name {
+        font-size: 8.7vw;
+      }
+    }
+  }
+}

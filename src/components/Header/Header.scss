@@ -1,0 +1,24 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 5rem;
+  position: sticky;
+  left: 0;
+  top: 0;
+  background-color: rgba(11, 14, 17, 0.87);
+  z-index: 2;
+  &-buttons {
+    display: inherit;
+  }
+  &-button {
+    padding: 0px;
+    cursor: pointer;
+    img {
+      height: 35px;
+    }
+  }
+  &-toggler {
+    z-index: 5;
+  }
+}

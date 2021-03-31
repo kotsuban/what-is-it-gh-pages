@@ -1,0 +1,12 @@
+.button {
+  padding: 10px 50px;
+  border: 2px solid #f93c47;
+  color: #f93c47;
+  font-weight: 700;
+  font-family: "Consolas";
+  transition: all 0.225s;
+  &:hover {
+    background-color: #f93c47;
+    color: #15171f !important;
+  }
+}

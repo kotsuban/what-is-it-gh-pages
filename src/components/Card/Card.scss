@@ -1,0 +1,180 @@
+.card {
+  width: 790px;
+  padding: 15px;
+  background-color: #15171f;
+  border-radius: 46px;
+  &-name {
+    font-weight: bold;
+    font-size: 48px;
+    span {
+      color: #f93c47;
+      font-family: "Consolas";
+    }
+  }
+  &-top {
+    display: flex;
+    justify-content: space-between;
+  }
+  &-description {
+    margin-top: 30px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    color: #b9b9b9;
+  }
+  &-pros-and-cons {
+    margin-top: 2.5rem;
+  }
+  &-pros,
+  &-cons {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 40px;
+    color: #b9b9b9;
+    margin-bottom: 1rem;
+  }
+  &-pros::before,
+  &-cons::before {
+    color: #f93c47;
+    font-family: "Consolas";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    margin-right: 1rem;
+  }
+  &-pros::before {
+    content: "+";
+  }
+  &-cons::before {
+    content: "-";
+  }
+  &-cons {
+    margin-top: 2.5rem;
+  }
+  &-bottom {
+    font-family: "Consolas";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    span {
+      color: #f93c47;
+    }
+  }
+  // hack to display the latest cards correctly
+  &-3 {
+    margin-top: -332px;
+  }
+  &-5 {
+    margin-top: -1041px;
+    .card {
+      .card-pros-and-cons {
+        margin-top: 3.3rem;
+      }
+      .card-bottom {
+        margin-top: 1.5rem;
+      }
+    }
+  }
+}
+
+@media (max-width: 1645px) {
+  .card-3,
+  .card-5 {
+    margin-top: 0 !important;
+  }
+  .card {
+    margin: 0 auto;
+  }
+}
+
+@media (max-width: 940px) {
+  .card {
+    width: 550px;
+  }
+  .card-name {
+    font-size: 35px;
+  }
+  .card-bottom {
+    font-size: 33px;
+  }
+  .card-description {
+    font-size: 25px;
+  }
+  .card-pros,
+  .card-cons {
+    font-size: 25px;
+  }
+  .card-pros::before,
+  .card-cons::before {
+    font-size: 25px;
+  }
+}
+
+@media (max-width: 600px) {
+  .card {
+    width: 100%;
+    min-width: 270px;
+    .card-top {
+      span {
+        svg {
+          width: 20px;
+        }
+      }
+    }
+  }
+  .card-name {
+    font-size: 30px;
+  }
+  .card-bottom {
+    font-size: 28px;
+  }
+  .card-description {
+    font-size: 20px;
+  }
+  .card-pros,
+  .card-cons {
+    font-size: 20px;
+  }
+  .card-pros::before,
+  .card-cons::before {
+    font-size: 20px;
+  }
+}
+
+@media (max-width: 410px) {
+  .card {
+    width: 100%;
+    .card-top {
+      span {
+        svg {
+          width: 20px;
+        }
+      }
+    }
+  }
+  .card-name {
+    font-size: 30px;
+    display: flex;
+    flex-direction: column;
+  }
+  .card-bottom {
+    font-size: 23px;
+  }
+  .card-description {
+    font-size: 20px;
+  }
+  .card-pros,
+  .card-cons {
+    font-size: 20px;
+  }
+  .card-pros::before,
+  .card-cons::before {
+    font-size: 20px;
+  }
+}
+
+@media (max-width: 400px) {
+  .col {
+    padding: 0 !important;
+  }
+}

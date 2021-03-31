@@ -1,0 +1,51 @@
+.opportunity {
+  margin-top: 10rem;
+  height: 50rem;
+  &-name {
+    font-size: 35px;
+    span {
+      color: #f93c47;
+    }
+    &::before {
+      content: "-";
+      font-family: "Consolas";
+      font-weight: 700;
+      color: #f93c47;
+    }
+  }
+  &-cons {
+    width: 1640px;
+    margin: 0 auto;
+    padding: 0 15px;
+    p {
+      margin-bottom: 10px !important;
+    }
+  }
+  .section-content {
+    align-items: end;
+    flex-direction: column;
+    position: absolute;
+    left: 0;
+    margin-top: 60px;
+  }
+}
+
+@media (max-width: 800px) {
+  .opportunity .line .section-name,
+  .prompt {
+    font-size: 40px;
+  }
+  .opportunity-name {
+    font-size: 22px;
+  }
+}
+
+@media (max-width: 480px) {
+  .opportunity {
+    .line {
+      .section-name {
+        font-size: 7vw;
+      }
+    }
+  }
+}

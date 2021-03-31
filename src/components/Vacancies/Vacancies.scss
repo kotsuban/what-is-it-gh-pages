@@ -1,0 +1,43 @@
+.vacancies {
+  .line {
+    padding: 0 15px;
+  }
+  .section-name {
+    h2 {
+      padding: 0 15px;
+    }
+  }
+}
+
+.vacancies-row {
+  margin-top: 100px;
+}
+
+@media (max-width: 1310px) {
+  .vacancies {
+    margin-top: 100px;
+  }
+}
+
+@media (max-width: 940px) {
+  .vacancies .line .section-name {
+    font-size: 55px;
+  }
+}
+
+@media (max-width: 800px) {
+  .vacancies .line .section-name,
+  .prompt {
+    font-size: 40px;
+  }
+}
+
+@media (max-width: 570px) {
+  .vacancies {
+    .line {
+      .section-name {
+        font-size: 6.1vw;
+      }
+    }
+  }
+}
