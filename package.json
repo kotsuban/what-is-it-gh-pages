@@ -2,7 +2,7 @@
   "name": "it-in-ours-lives",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://webl0ck.github.io/what-is-it-gh-pages/",
+  "homepage": "https://kotsuban.github.io/what-is-it-gh-pages/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.5",
