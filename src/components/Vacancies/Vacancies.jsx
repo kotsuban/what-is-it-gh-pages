@@ -3,12 +3,12 @@ import React from "react";
 import "./Vacancies.scss";
 import "../Card/Card.scss";
 
-import { Section, Card } from "../index";
+import { Section } from "../index";
 import { Container, Row, Col } from "react-bootstrap";
 
 import { ReactComponent as PopularIcon } from "../../assets/images/fire.svg";
 
-const Vacancies = ({ data }) => {
+const Vacancies = () => {
   return (
     <Section
       sectionName={"вакансії для web-майстра"}
